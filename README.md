@@ -9,3 +9,4 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 3.   | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | `Array` `Hash Table` `Graph` | 💚 |
 | 4.   | [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | `Bit Manipulation` | 💚 |
 | 5.   | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | `String` `Dynamic Programming` `Backtracking`| 🧡 |
+| 6.   | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | `Array` `Sorting` `Heap(Priority Queue)` `Simulation` `Prefix Sum` | 🧡 |
