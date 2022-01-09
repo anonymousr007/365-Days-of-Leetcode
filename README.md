@@ -12,4 +12,4 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 6th Jan | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | `Array` `Sorting` `Heap(Priority Queue)` `Simulation` `Prefix Sum` | 🧡 |
 | 7th Jan | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | `Linked List` `Math` `Reservoir Sampling` `Randomized` | 🧡 |
 | 8th Jan | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | `Array` `Dynamic Programming ` `Matrix` | ❤️ |
-| 9th Jan | [Robot Bounded in Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | `Math` `String` `Simulation` | 🧡 |
+| 9th Jan | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | `Math` `String` `Simulation` | 🧡 |
