@@ -14,3 +14,4 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 08th Jan | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | `Array` `Dynamic Programming ` `Matrix` | ❤️ |
 | 09th Jan | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | `Math` `String` `Simulation` | 🧡 |
 | 10th Jan | [67. Add Binary](https://leetcode.com/problems/add-binary/) | `Math` `String` `Bit Manipulation` `Simulation` | 💚 |
+| 11th Jan | [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | `Tree` `Depth First Search` `Binary Tree` | 💚 |
