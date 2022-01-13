@@ -35,3 +35,18 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 29th Jan | 
 | 30th Jan | 
 | 31th Jan | 
+
+| S.No. | Month's Name | Total (365) | Easy () | Medium () | Hard () |
+| ----- | ------------ | ----------- | ------- | --------- | ------- |
+| 01.   | January      | 31
+| 02.   | February     | 28
+| 03.   | March        | 31
+| 04.   | April        | 30
+| 05.   | May          | 31
+| 06.   | June         | 30
+| 07.   | July         | 31
+| 08.   | August       | 31
+| 09.   | September    | 30
+| 10.   | October      | 31
+| 11.   | November     | 30
+| 12.   | December     | 31
