@@ -16,3 +16,22 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10th Jan | [67. Add Binary](https://leetcode.com/problems/add-binary/) | `Math` `String` `Bit Manipulation` `Simulation` | 💚 |
 | 11th Jan | [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | `Tree` `Depth First Search` `Binary Tree` | 💚 |
 | 12th Jan | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | `Tree` `Binary Search Tree` `Binary Tree` | 🧡 |
+| 13th Jan | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | `Array` `Greedy` `Sorting` | 🧡 |
+| 14th Jan | 
+| 15th Jan | 
+| 16th Jan | 
+| 17th Jan | 
+| 18th Jan | 
+| 19th Jan | 
+| 20th Jan | 
+| 21st Jan | 
+| 22nd Jan | 
+| 23rd Jan | 
+| 24th Jan | 
+| 25th Jan | 
+| 26th Jan | 
+| 27th Jan | 
+| 28th Jan | 
+| 29th Jan | 
+| 30th Jan | 
+| 31th Jan | 
