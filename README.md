@@ -17,7 +17,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 11th Jan | [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | `Tree` `Depth First Search` `Binary Tree` | 💚 |
 | 12th Jan | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | `Tree` `Binary Search Tree` `Binary Tree` | 🧡 |
 | 13th Jan | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | `Array` `Greedy` `Sorting` | 🧡 |
-| 14th Jan | 
+| 14th Jan | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | `String` | 🧡 |
 | 15th Jan | 
 | 16th Jan | 
 | 17th Jan | 
