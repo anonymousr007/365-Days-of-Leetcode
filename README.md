@@ -19,7 +19,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 13th Jan | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | `Array` `Greedy` `Sorting` | 🧡 |
 | 14th Jan | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | `String` | 🧡 |
 | 15th Jan | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | `Array` `Hash Table` `Breadth-First Search` | ❤️ |
-| 16th Jan | 
+| 16th Jan | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | `Array` | 🧡 |
 | 17th Jan | 
 | 18th Jan | 
 | 19th Jan | 
