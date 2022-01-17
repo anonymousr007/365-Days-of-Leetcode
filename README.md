@@ -20,7 +20,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 14th Jan | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | `String` | 🧡 |
 | 15th Jan | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | `Array` `Hash Table` `Breadth-First Search` | ❤️ |
 | 16th Jan | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | `Array` | 🧡 |
-| 17th Jan | 
+| 17th Jan | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | `Hash Table` `String` | 💚 |
 | 18th Jan | 
 | 19th Jan | 
 | 20th Jan | 
