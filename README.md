@@ -22,7 +22,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 16th Jan | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | `Array` | 🧡 |
 | 17th Jan | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | `Hash Table` `String` | 💚 |
 | 18th Jan | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | `Array` `Greedy` | 💚 |
-| 19th Jan | 
+| 19th Jan | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | `Hash Table` `Linked List` `Two Pointers` | 🧡 |
 | 20th Jan | 
 | 21st Jan | 
 | 22nd Jan | 
