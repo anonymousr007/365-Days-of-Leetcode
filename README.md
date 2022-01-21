@@ -24,7 +24,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 18th Jan | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | `Array` `Greedy` | 💚 |
 | 19th Jan | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | `Hash Table` `Linked List` `Two Pointers` | 🧡 |
 | 20th Jan | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Array` `Binary Search` | 🧡 |
-| 21st Jan | 
+| 21st Jan | [134. Gas Station](https://leetcode.com/problems/gas-station/) | `Array` `Greedy` | 🧡 |
 | 22nd Jan | 
 | 23rd Jan | 
 | 24th Jan | 
