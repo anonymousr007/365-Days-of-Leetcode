@@ -25,7 +25,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 19th Jan | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | `Hash Table` `Linked List` `Two Pointers` | 🧡 |
 | 20th Jan | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Array` `Binary Search` | 🧡 |
 | 21st Jan | [134. Gas Station](https://leetcode.com/problems/gas-station/) | `Array` `Greedy` | 🧡 |
-| 22nd Jan | 
+| 22nd Jan | [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | `Math` `Dynamic Programming` `Game Theory` | ❤️ |
 | 23rd Jan | 
 | 24th Jan | 
 | 25th Jan | 
