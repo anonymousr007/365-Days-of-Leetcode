@@ -26,7 +26,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 20th Jan | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Array` `Binary Search` | 🧡 |
 | 21st Jan | [134. Gas Station](https://leetcode.com/problems/gas-station/) | `Array` `Greedy` | 🧡 |
 | 22nd Jan | [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | `Math` `Dynamic Programming` `Game Theory` | ❤️ |
-| 23rd Jan | 
+| 23rd Jan | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | `Enumeration` | 🧡 |
 | 24th Jan | 
 | 25th Jan | 
 | 26th Jan | 
