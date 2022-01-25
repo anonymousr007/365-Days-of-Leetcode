@@ -28,7 +28,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 22nd Jan | [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | `Math` `Dynamic Programming` `Game Theory` | ❤️ |
 | 23rd Jan | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | `Enumeration` | 🧡 |
 | 24th Jan | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | `String` | 💚 |
-| 25th Jan | 
+| 25th Jan | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | `Array` | 💚 |
 | 26th Jan | 
 | 27th Jan | 
 | 28th Jan | 
