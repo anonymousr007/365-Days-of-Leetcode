@@ -29,7 +29,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 23rd Jan | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | `Enumeration` | 🧡 |
 | 24th Jan | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | `String` | 💚 |
 | 25th Jan | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | `Array` | 💚 |
-| 26th Jan | 
+| 26th Jan | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | `Tree` `Depth-First Search` `Binary Search Tree` `Sorting` `Binary Tree` | 🧡 |
 | 27th Jan | 
 | 28th Jan | 
 | 29th Jan | 
