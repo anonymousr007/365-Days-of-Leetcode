@@ -30,7 +30,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 24th Jan | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | `String` | 💚 |
 | 25th Jan | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | `Array` | 💚 |
 | 26th Jan | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | `Tree` `Depth-First Search` `Binary Search Tree` `Sorting` `Binary Tree` | 🧡 |
-| 27th Jan | 
+| 27th Jan | [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | `Array` `Hash Table` `Bit Manipulation` `Trie` | 🧡 |
 | 28th Jan | 
 | 29th Jan | 
 | 30th Jan | 
