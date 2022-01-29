@@ -32,7 +32,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 26th Jan | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | `Tree` `Depth-First Search` `Binary Search Tree` `Sorting` `Binary Tree` | 🧡 |
 | 27th Jan | [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | `Array` `Hash Table` `Bit Manipulation` `Trie` | 🧡 |
 | 28th Jan | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | `String` `Depth-Breadth Search` `Design` `Trie` | 🧡 |
-| 29th Jan | 
+| 29th Jan | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | `Array` `Stack` `Monotonic Stack` | ❤️ |
 | 30th Jan | 
 | 31th Jan | 
 
