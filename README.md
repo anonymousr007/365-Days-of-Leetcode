@@ -33,7 +33,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 27th Jan | [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | `Array` `Hash Table` `Bit Manipulation` `Trie` | 🧡 |
 | 28th Jan | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | `String` `Depth-Breadth Search` `Design` `Trie` | 🧡 |
 | 29th Jan | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | `Array` `Stack` `Monotonic Stack` | ❤️ |
-| 30th Jan | 
+| 30th Jan | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | `Array` `Math` `Two Pointers` | 🧡 |
 | 31th Jan | 
 
 | S.No. | Month's Name | Total (365) | Easy () | Medium () | Hard () |
