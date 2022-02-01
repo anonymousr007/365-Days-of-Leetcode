@@ -2,6 +2,8 @@
 
 Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
+## January 
+
 | Date         | Leetcode Problem's Name | Tags | Difficulty | Python Code |
 | ------------ | ----------------------- | ---- | ---------- | ----------- |
 | 01st Jan | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | `Array` `Dynamic Programming` | ❤️ |
@@ -34,11 +36,17 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 28th Jan | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | `String` `Depth-Breadth Search` `Design` `Trie` | 🧡 |
 | 29th Jan | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | `Array` `Stack` `Monotonic Stack` | ❤️ |
 | 30th Jan | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | `Array` `Math` `Two Pointers` | 🧡 |
-| 31th Jan | 
+| 31th Jan | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | `Array` `Matrix` | 💚 |
 
-| S.No. | Month's Name | Total (365) | Easy () | Medium () | Hard () |
-| ----- | ------------ | ----------- | ------- | --------- | ------- |
-| 01.   | January      | 31
+## February
+
+| Date         | Leetcode Problem's Name | Tags | Difficulty | Python Code |
+| ------------ | ----------------------- | ---- | ---------- | ----------- |
+| 01st Feb | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Array` `Dynamic Programming` | 💚 |
+
+| S.No. | Month's Name | Total (365) | Easy (9) | Medium (17) | Hard (5) |
+| ----- | ------------ | ----------- | -------- | ----------- | -------- |
+| 01.   | January      | 31          | 9        | 17          | 5        |
 | 02.   | February     | 28
 | 03.   | March        | 31
 | 04.   | April        | 30
