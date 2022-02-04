@@ -45,6 +45,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 01st Feb     | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Array` `Dynamic Programming` | 💚 |
 | 02nd Feb     | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/) | `Hash Table` `String` `Sliding Window` | 🧡 |
 | 03rd Feb     | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/submissions/) | `Array` `Hash Table` | 🧡 |
+| 04th Feb     | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | `Array` `Hash Table` `Prefix Sum` | 🧡 |
 
 | S.No. | Month's Name | Total (365) | Easy (9) | Medium (17) | Hard (5) |
 | ----- | ------------ | ----------- | -------- | ----------- | -------- |
