@@ -46,6 +46,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02nd Feb     | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/) | `Hash Table` `String` `Sliding Window` | 🧡 |
 | 03rd Feb     | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/submissions/) | `Array` `Hash Table` | 🧡 |
 | 04th Feb     | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | `Array` `Hash Table` `Prefix Sum` | 🧡 |
+| 05th Feb     | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | `Linked List` `Divide and Conquer` `Heap(Priority Queue)` `Merge Sort` | ❤️ |
 
 | S.No. | Month's Name | Total (365) | Easy (9) | Medium (17) | Hard (5) |
 | ----- | ------------ | ----------- | -------- | ----------- | -------- |
