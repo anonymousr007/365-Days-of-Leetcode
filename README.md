@@ -47,6 +47,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 03rd Feb     | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/submissions/) | `Array` `Hash Table` | 🧡 |
 | 04th Feb     | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | `Array` `Hash Table` `Prefix Sum` | 🧡 |
 | 05th Feb     | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | `Linked List` `Divide and Conquer` `Heap(Priority Queue)` `Merge Sort` | ❤️ |
+| 06th Feb     | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | `Array` `Two Pointers` | 🧡 |
 
 | S.No. | Month's Name | Total (365) | Easy (9) | Medium (17) | Hard (5) |
 | ----- | ------------ | ----------- | -------- | ----------- | -------- |
