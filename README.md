@@ -48,6 +48,28 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 04th Feb     | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | `Array` `Hash Table` `Prefix Sum` | 🧡 |
 | 05th Feb     | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | `Linked List` `Divide and Conquer` `Heap(Priority Queue)` `Merge Sort` | ❤️ |
 | 06th Feb     | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | `Array` `Two Pointers` | 🧡 |
+| 07th Feb     | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | `Hash Table` `String` `Bit Manipulation` `Sorting` | 💚 |
+| 08th Feb     | 
+| 09th Feb     | 
+| 10th Feb     | 
+| 11th Feb     | 
+| 12th Feb     | 
+| 13th Feb     | 
+| 14th Feb     | 
+| 15th Feb     | 
+| 16th Feb     | 
+| 17th Feb     | 
+| 18th Feb     | 
+| 19th Feb     | 
+| 20th Feb     | 
+| 21th Feb     | 
+| 22th Feb     | 
+| 23th Feb     | 
+| 24th Feb     | 
+| 25th Feb     | 
+| 26th Feb     | 
+| 27th Feb     | 
+| 28th Feb     | 
 
 | S.No. | Month's Name | Total (365) | Easy (9) | Medium (17) | Hard (5) |
 | ----- | ------------ | ----------- | -------- | ----------- | -------- |
