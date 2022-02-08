@@ -49,7 +49,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 05th Feb     | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | `Linked List` `Divide and Conquer` `Heap(Priority Queue)` `Merge Sort` | ❤️ |
 | 06th Feb     | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | `Array` `Two Pointers` | 🧡 |
 | 07th Feb     | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | `Hash Table` `String` `Bit Manipulation` `Sorting` | 💚 |
-| 08th Feb     | 
+| 08th Feb     | [258. Add Digits](https://leetcode.com/problems/add-digits/) | `Math` `Simulation` `Number Theory` | 💚 |
 | 09th Feb     | 
 | 10th Feb     | 
 | 11th Feb     | 
