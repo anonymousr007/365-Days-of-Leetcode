@@ -50,7 +50,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 06th Feb     | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | `Array` `Two Pointers` | 🧡 |
 | 07th Feb     | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | `Hash Table` `String` `Bit Manipulation` `Sorting` | 💚 |
 | 08th Feb     | [258. Add Digits](https://leetcode.com/problems/add-digits/) | `Math` `Simulation` `Number Theory` | 💚 |
-| 09th Feb     | 
+| 09th Feb     | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | `Array` `Hash Table` `Two Pointers` `Binary Search` `Sorting` | 🧡 |
 | 10th Feb     | 
 | 11th Feb     | 
 | 12th Feb     | 
