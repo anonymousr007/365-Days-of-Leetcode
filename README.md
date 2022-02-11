@@ -52,7 +52,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 08th Feb     | [258. Add Digits](https://leetcode.com/problems/add-digits/) | `Math` `Simulation` `Number Theory` | 💚 |
 | 09th Feb     | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | `Array` `Hash Table` `Two Pointers` `Binary Search` `Sorting` | 🧡 |
 | 10th Feb     | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | `Array` `Hash Table` `Prefix Sum` | 🧡 |
-| 11th Feb     | 
+| 11th Feb     | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Hash Table` `Two Pointers` `String` `Sliding Window` | 🧡 |
 | 12th Feb     | 
 | 13th Feb     | 
 | 14th Feb     | 
