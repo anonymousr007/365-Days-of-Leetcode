@@ -54,7 +54,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10th Feb     | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | `Array` `Hash Table` `Prefix Sum` | 🧡 |
 | 11th Feb     | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Hash Table` `Two Pointers` `String` `Sliding Window` | 🧡 |
 | 12th Feb     | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | `Hash Table` `String` `Breadth-First Search` | ❤️ |
-| 13th Feb     | 
+| 13th Feb     | [78. Subsets](https://leetcode.com/problems/subsets/) | `Array` `Backtracking` `Bit Manipulation` | 🧡 |
 | 14th Feb     | 
 | 15th Feb     | 
 | 16th Feb     | 
