@@ -55,7 +55,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 11th Feb     | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Hash Table` `Two Pointers` `String` `Sliding Window` | 🧡 |
 | 12th Feb     | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | `Hash Table` `String` `Breadth-First Search` | ❤️ |
 | 13th Feb     | [78. Subsets](https://leetcode.com/problems/subsets/) | `Array` `Backtracking` `Bit Manipulation` | 🧡 |
-| 14th Feb     | 
+| 14th Feb     | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
 | 15th Feb     | 
 | 16th Feb     | 
 | 17th Feb     | 
