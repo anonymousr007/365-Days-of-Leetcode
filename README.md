@@ -57,7 +57,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 13th Feb     | [78. Subsets](https://leetcode.com/problems/subsets/) | `Array` `Backtracking` `Bit Manipulation` | 🧡 |
 | 14th Feb     | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
 | 15th Feb     | [136. Single Number](https://leetcode.com/problems/single-number/) | `Array` `Bit Manipulation` | 💚 |
-| 16th Feb     | 
+| 16th Feb     | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | `Linked List` `Recursion` | 🧡 |
 | 17th Feb     | 
 | 18th Feb     | 
 | 19th Feb     | 
