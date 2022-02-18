@@ -59,7 +59,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 15th Feb     | [136. Single Number](https://leetcode.com/problems/single-number/) | `Array` `Bit Manipulation` | 💚 |
 | 16th Feb     | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | `Linked List` `Recursion` | 🧡 |
 | 17th Feb     | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | `Array` `Backtracking` | 🧡 |
-| 18th Feb     | 
+| 18th Feb     | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | `String` `Stack` `Greedy` `Monotonic Stack` | 🧡 |
 | 19th Feb     | 
 | 20th Feb     | 
 | 21th Feb     | 
