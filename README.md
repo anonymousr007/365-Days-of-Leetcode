@@ -60,7 +60,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 16th Feb     | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | `Linked List` `Recursion` | 🧡 |
 | 17th Feb     | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | `Array` `Backtracking` | 🧡 |
 | 18th Feb     | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | `String` `Stack` `Greedy` `Monotonic Stack` | 🧡 |
-| 19th Feb     | 
+| 19th Feb     | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | `Array` `Greedy` `Heap(Priority Queue)` `Ordered Set` | ❤️ |
 | 20th Feb     | 
 | 21th Feb     | 
 | 22th Feb     | 
