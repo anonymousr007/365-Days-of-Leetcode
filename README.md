@@ -62,7 +62,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 18th Feb     | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | `String` `Stack` `Greedy` `Monotonic Stack` | 🧡 |
 | 19th Feb     | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | `Array` `Greedy` `Heap(Priority Queue)` `Ordered Set` | ❤️ |
 | 20th Feb     | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | `Array` `Sorting` | 🧡 |
-| 21th Feb     | 
+| 21th Feb     | [169. Majority Element](https://leetcode.com/problems/majority-element/) | `Array` `Hash Table` `Divide and Conquer` `Sorting` `Counting` | 💚 |
 | 22th Feb     | 
 | 23th Feb     | 
 | 24th Feb     | 
