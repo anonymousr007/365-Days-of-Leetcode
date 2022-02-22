@@ -63,7 +63,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 19th Feb     | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | `Array` `Greedy` `Heap(Priority Queue)` `Ordered Set` | ❤️ |
 | 20th Feb     | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | `Array` `Sorting` | 🧡 |
 | 21th Feb     | [169. Majority Element](https://leetcode.com/problems/majority-element/) | `Array` `Hash Table` `Divide and Conquer` `Sorting` `Counting` | 💚 |
-| 22th Feb     | 
+| 22th Feb     | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | `Math` `String` | 💚 |
 | 23th Feb     | 
 | 24th Feb     | 
 | 25th Feb     | 
