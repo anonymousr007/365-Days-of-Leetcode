@@ -64,7 +64,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 20th Feb     | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | `Array` `Sorting` | 🧡 |
 | 21th Feb     | [169. Majority Element](https://leetcode.com/problems/majority-element/) | `Array` `Hash Table` `Divide and Conquer` `Sorting` `Counting` | 💚 |
 | 22th Feb     | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | `Math` `String` | 💚 |
-| 23th Feb     | 
+| 23th Feb     | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | `Hash Table` `Breadth-First Search` `Depth-First Search` `Graph` | 🧡 |
 | 24th Feb     | 
 | 25th Feb     | 
 | 26th Feb     | 
