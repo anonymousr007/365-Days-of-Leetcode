@@ -68,7 +68,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 24th Feb     | [148. Sort List](https://leetcode.com/problems/sort-list/) | `Linked List` `Two Pointers` `Divide and Conquer` `Sorting` `Merge Sort` | 🧡 |
 | 25th Feb     | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | `Two Pointers` `String` | 🧡 |
 | 26th Feb     | [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | `Dynamic Programming` `Bit Manipulation` `Breadth-First Search` `Graph` `Bitmask` | ❤️ |
-| 27th Feb     | 
+| 27th Feb     | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 28th Feb     | 
 
 | S.No. | Month's Name | Total (365) | Easy (9) | Medium (17) | Hard (5) |
