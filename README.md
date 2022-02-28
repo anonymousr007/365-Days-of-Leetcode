@@ -69,19 +69,20 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 25th Feb     | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | `Two Pointers` `String` | 🧡 |
 | 26th Feb     | [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | `Dynamic Programming` `Bit Manipulation` `Breadth-First Search` `Graph` `Bitmask` | ❤️ |
 | 27th Feb     | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
-| 28th Feb     | 
+| 28th Feb     | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | `Array` | 💚 |
 
-| S.No. | Month's Name | Total (365) | Easy (9) | Medium (17) | Hard (5) |
-| ----- | ------------ | ----------- | -------- | ----------- | -------- |
-| 01.   | January      | 31          | 9        | 17          | 5        |
-| 02.   | February     | 28
-| 03.   | March        | 31
-| 04.   | April        | 30
-| 05.   | May          | 31
-| 06.   | June         | 30
-| 07.   | July         | 31
-| 08.   | August       | 31
-| 09.   | September    | 30
-| 10.   | October      | 31
-| 11.   | November     | 30
-| 12.   | December     | 31
+| S.No. | Month's Name | Total | Easy | Medium | Hard |
+| ----- | ------------ | ----- | ---- | ------ | ---- |
+| 01.   | January      | 31    | 9    | 17     | 5    |
+| 02.   | February     | 28    | 8    | 16     | 4    |
+| 03.   | March        | 31    |
+| 04.   | April        | 30    |
+| 05.   | May          | 31    |
+| 06.   | June         | 30    |
+| 07.   | July         | 31    |
+| 08.   | August       | 31    |
+| 09.   | September    | 30    |
+| 10.   | October      | 31    |
+| 11.   | November     | 30    |
+| 12.   | December     | 31    |
+|       | Total        | 365   | 17   | 33 | 9 |
