@@ -71,6 +71,46 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 27th Feb     | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 28th Feb     | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | `Array` | 💚 |
 
+## March
+
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
+| 01st March | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | `Dynamic Programming` `Bit Manipulation` | 💚 |
+| 02nd March | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Two Pointers` `String` `Dynamic Programming` | 💚 |
+| 03rd March |
+| 04th March |
+| 05th March |
+| 06th March |
+| 07th March |
+| 08th March |
+| 09th March |
+| 10th March |
+| 11th March |
+| 12th March |
+| 13th March |
+| 14th March |
+| 15th March |
+| 16th March |
+| 17th March |
+| 18th March |
+| 19th March |
+| 20th March |
+| 21st March |
+| 22nd March |
+| 23rd March |
+| 24th March |
+| 25th March |
+| 26th March |
+| 27th March |
+| 28th March |
+| 29th March |
+| 30th March |
+| 31st March |
+
+
+
+
+
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
 | ----- | ------------ | ----- | ---- | ------ | ---- |
 | 01.   | January      | 31    | 9    | 17     | 5    |
