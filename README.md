@@ -77,7 +77,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
 | 01st March | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | `Dynamic Programming` `Bit Manipulation` | 💚 |
 | 02nd March | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Two Pointers` `String` `Dynamic Programming` | 💚 |
-| 03rd March |
+| 03rd March | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | `Array` `Dynamic Programming` | 🧡 |
 | 04th March |
 | 05th March |
 | 06th March |
