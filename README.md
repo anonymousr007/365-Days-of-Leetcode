@@ -79,7 +79,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02nd March | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Two Pointers` `String` `Dynamic Programming` | 💚 |
 | 03rd March | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | `Array` `Dynamic Programming` | 🧡 |
 | 04th March | [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/) | `Dynamic Programming` | 🧡 |
-| 05th March |
+| 05th March | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | `Array` `Hash Table` `Dynamic Programming` | 🧡 |
 | 06th March |
 | 07th March |
 | 08th March |
