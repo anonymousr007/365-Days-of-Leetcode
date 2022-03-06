@@ -80,7 +80,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 03rd March | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | `Array` `Dynamic Programming` | 🧡 |
 | 04th March | [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/) | `Dynamic Programming` | 🧡 |
 | 05th March | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | `Array` `Hash Table` `Dynamic Programming` | 🧡 |
-| 06th March |
+| 06th March | [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | `Math` `Dynamic Programming` `Combinatorics` | ❤️ |
 | 07th March |
 | 08th March |
 | 09th March |
