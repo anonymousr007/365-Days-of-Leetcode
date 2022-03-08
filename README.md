@@ -82,7 +82,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 05th March | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | `Array` `Hash Table` `Dynamic Programming` | 🧡 |
 | 06th March | [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | `Math` `Dynamic Programming` `Combinatorics` | ❤️ |
 | 07th March | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Linked List` `Recursion` | 💚 |
-| 08th March |
+| 08th March | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | `Hash Table` `Linked List` `Two Pointers` | 💚 |
 | 09th March |
 | 10th March |
 | 11th March |
