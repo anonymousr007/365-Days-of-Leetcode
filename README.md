@@ -84,7 +84,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 07th March | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `Linked List` `Recursion` | 💚 |
 | 08th March | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | `Hash Table` `Linked List` `Two Pointers` | 💚 |
 | 09th March | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | `Linked List` `Two Pointers` | 🧡 |
-| 10th March |
+| 10th March | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | `Linked List` `Math` `Recursion` | 🧡 |
 | 11th March |
 | 12th March |
 | 13th March |
