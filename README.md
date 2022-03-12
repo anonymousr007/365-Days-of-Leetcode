@@ -86,7 +86,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 09th March | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | `Linked List` `Two Pointers` | 🧡 |
 | 10th March | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | `Linked List` `Math` `Recursion` | 🧡 |
 | 11th March | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | `Linked List` `Two Pointers` | 🧡 |
-| 12th March |
+| 12th March | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | `Hash Table` `Linked List` | 🧡 |
 | 13th March |
 | 14th March |
 | 15th March |
