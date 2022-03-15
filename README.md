@@ -89,7 +89,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 12th March | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | `Hash Table` `Linked List` | 🧡 |
 | 13th March | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `String` `Stack` | 💚 |
 | 14th March | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | `String` `Stack` | 🧡 |
-| 15th March |
+| 15th March | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | `String` `Stack` | 🧡 |
 | 16th March |
 | 17th March |
 | 18th March |
