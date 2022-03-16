@@ -90,7 +90,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 13th March | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | `String` `Stack` | 💚 |
 | 14th March | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | `String` `Stack` | 🧡 |
 | 15th March | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | `String` `Stack` | 🧡 |
-| 16th March |
+| 16th March | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | `Array` `Stack` `Simulation` | 🧡 |
 | 17th March |
 | 18th March |
 | 19th March |
