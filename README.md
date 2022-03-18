@@ -92,7 +92,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 15th March | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | `String` `Stack` | 🧡 |
 | 16th March | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | `Array` `Stack` `Simulation` | 🧡 |
 | 17th March | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | `String` `Stack` | 🧡 |
-| 18th March |
+| 18th March | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | `String` `Stack` `Greedy` `Monotonic Stack` | 🧡 |
 | 19th March |
 | 20th March |
 | 21st March |
