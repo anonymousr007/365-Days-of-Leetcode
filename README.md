@@ -93,8 +93,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 16th March | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | `Array` `Stack` `Simulation` | 🧡 |
 | 17th March | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | `String` `Stack` | 🧡 |
 | 18th March | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | `String` `Stack` `Greedy` `Monotonic Stack` | 🧡 |
-| 19th March |
-| 20th March |
+| 19th March | [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | `Hash Table` `Stack` `Design` `Ordered Set` | ❤️ |
+| 20th March | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | `Array` `Greedy` | 🧡 |
 | 21st March |
 | 22nd March |
 | 23rd March |
