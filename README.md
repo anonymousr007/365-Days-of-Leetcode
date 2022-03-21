@@ -95,7 +95,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 18th March | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | `String` `Stack` `Greedy` `Monotonic Stack` | 🧡 |
 | 19th March | [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | `Hash Table` `Stack` `Design` `Ordered Set` | ❤️ |
 | 20th March | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | `Array` `Greedy` | 🧡 |
-| 21st March |
+| 21st March | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | `Hash Table` `Two Pointers` `String` `Greedy` | 🧡 |
 | 22nd March |
 | 23rd March |
 | 24th March |
