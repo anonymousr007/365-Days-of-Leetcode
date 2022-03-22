@@ -96,7 +96,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 19th March | [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | `Hash Table` `Stack` `Design` `Ordered Set` | ❤️ |
 | 20th March | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | `Array` `Greedy` | 🧡 |
 | 21st March | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | `Hash Table` `Two Pointers` `String` `Greedy` | 🧡 |
-| 22nd March |
+| 22nd March | [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | `String` `Greedy` | 🧡 |
 | 23rd March |
 | 24th March |
 | 25th March |
