@@ -97,7 +97,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 20th March | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | `Array` `Greedy` | 🧡 |
 | 21st March | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | `Hash Table` `Two Pointers` `String` `Greedy` | 🧡 |
 | 22nd March | [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | `String` `Greedy` | 🧡 |
-| 23rd March |
+| 23rd March | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | `Math` `Greedy` | 🧡 |
 | 24th March |
 | 25th March |
 | 26th March |
