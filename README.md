@@ -98,7 +98,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 21st March | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | `Hash Table` `Two Pointers` `String` `Greedy` | 🧡 |
 | 22nd March | [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | `String` `Greedy` | 🧡 |
 | 23rd March | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | `Math` `Greedy` | 🧡 |
-| 24th March |
+| 24th March | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `Array` `Two Pointers` `Greedy` `Sorting` | 🧡 |
 | 25th March |
 | 26th March |
 | 27th March |
