@@ -99,7 +99,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 22nd March | [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | `String` `Greedy` | 🧡 |
 | 23rd March | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | `Math` `Greedy` | 🧡 |
 | 24th March | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `Array` `Two Pointers` `Greedy` `Sorting` | 🧡 |
-| 25th March |
+| 25th March | [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | `Array` `Greedy` `Sorting` | 🧡 |
 | 26th March |
 | 27th March |
 | 28th March |
