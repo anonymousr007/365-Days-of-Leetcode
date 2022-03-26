@@ -100,7 +100,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 23rd March | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | `Math` `Greedy` | 🧡 |
 | 24th March | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `Array` `Two Pointers` `Greedy` `Sorting` | 🧡 |
 | 25th March | [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | `Array` `Greedy` `Sorting` | 🧡 |
-| 26th March |
+| 26th March | [704. Binary Search](https://leetcode.com/problems/binary-search/) | `Array` `Binary Search` | 🧡 |
 | 27th March |
 | 28th March |
 | 29th March |
