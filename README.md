@@ -101,7 +101,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 24th March | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `Array` `Two Pointers` `Greedy` `Sorting` | 🧡 |
 | 25th March | [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | `Array` `Greedy` `Sorting` | 🧡 |
 | 26th March | [704. Binary Search](https://leetcode.com/problems/binary-search/) | `Array` `Binary Search` | 🧡 |
-| 27th March |
+| 27th March | [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | `Array` `Binary Search` `Sorting` `Heap(Priority Queue)` `Matrix` | 💚 |
 | 28th March |
 | 29th March |
 | 30th March |
