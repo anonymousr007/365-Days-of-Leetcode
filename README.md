@@ -102,7 +102,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 25th March | [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | `Array` `Greedy` `Sorting` | 🧡 |
 | 26th March | [704. Binary Search](https://leetcode.com/problems/binary-search/) | `Array` `Binary Search` | 🧡 |
 | 27th March | [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | `Array` `Binary Search` `Sorting` `Heap(Priority Queue)` `Matrix` | 💚 |
-| 28th March |
+| 28th March | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | `Array` `Binary Search` | 🧡 |
 | 29th March |
 | 30th March |
 | 31st March |
