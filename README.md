@@ -104,7 +104,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 27th March | [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | `Array` `Binary Search` `Sorting` `Heap(Priority Queue)` `Matrix` | 💚 |
 | 28th March | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | `Array` `Binary Search` | 🧡 |
 | 29th March | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | `Array` `Two Pointers` `Binary Search` `Bit Manipulation` | 🧡 | 
-| 30th March |
+| 30th March | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | `Array` `Binary Search` `Matrix` | 🧡 |
 | 31st March |
 
 
