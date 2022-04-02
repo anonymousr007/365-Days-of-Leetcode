@@ -107,6 +107,53 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 30th March | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | `Array` `Binary Search` `Matrix` | 🧡 |
 | 31st March | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | `Array` `Binary Search` `Dynamic Programming` `Greedy` | ❤️ |
 
+## April
+
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
+| 01st April | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | `Two Pointers` `String` `Recursion` | 💚 |
+| 02nd April | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | `Two Pointers` `String` `Greedy` | 💚 |
+| 03rd April | 
+| 04th April | 
+| 05th April | 
+| 06th April | 
+| 07th April | 
+| 08th April | 
+| 09th April | 
+| 10th April | 
+| 11th April | 
+| 12th April | 
+| 13th April | 
+| 14th April | 
+| 15th April | 
+| 16th April | 
+| 17th April | 
+| 18th April | 
+| 19th April | 
+| 20th April | 
+| 21st April | 
+| 22nd April | 
+| 23rd April | 
+| 24th April | 
+| 25th April | 
+| 26th April | 
+| 27th April | 
+| 28th April | 
+| 29th April | 
+| 30th April | 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
