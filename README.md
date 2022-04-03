@@ -113,7 +113,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
 | 01st April | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | `Two Pointers` `String` `Recursion` | 💚 |
 | 02nd April | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | `Two Pointers` `String` `Greedy` | 💚 |
-| 03rd April | 
+| 03rd April | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | `Array` `Two Pointers` | 🧡 |
 | 04th April | 
 | 05th April | 
 | 06th April | 
