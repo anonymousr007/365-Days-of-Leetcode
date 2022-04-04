@@ -114,7 +114,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 01st April | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | `Two Pointers` `String` `Recursion` | 💚 |
 | 02nd April | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | `Two Pointers` `String` `Greedy` | 💚 |
 | 03rd April | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | `Array` `Two Pointers` | 🧡 |
-| 04th April | 
+| 04th April | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | `Linked List` `Two Pointers` | 🧡 |
 | 05th April | 
 | 06th April | 
 | 07th April | 
