@@ -115,7 +115,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02nd April | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | `Two Pointers` `String` `Greedy` | 💚 |
 | 03rd April | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | `Array` `Two Pointers` | 🧡 |
 | 04th April | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | `Linked List` `Two Pointers` | 🧡 |
-| 05th April | 
+| 05th April | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | `Array` `Two Pointers` `Greedy` | 🧡 |
 | 06th April | 
 | 07th April | 
 | 08th April | 
