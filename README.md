@@ -116,8 +116,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 03rd April | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | `Array` `Two Pointers` | 🧡 |
 | 04th April | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | `Linked List` `Two Pointers` | 🧡 |
 | 05th April | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | `Array` `Two Pointers` `Greedy` | 🧡 |
-| 06th April | 
-| 07th April | 
+| 06th April | [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | `Array` `Hash Table` `Two Pointers` `Sorting` `Counting` | 🧡 |
+| 07th April | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | `Array` `Heap (Priority Queue)` | 💚 |
 | 08th April | 
 | 09th April | 
 | 10th April | 
