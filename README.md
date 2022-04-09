@@ -119,7 +119,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 06th April | [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | `Array` `Hash Table` `Two Pointers` `Sorting` `Counting` | 🧡 |
 | 07th April | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | `Array` `Heap (Priority Queue)` | 💚 |
 | 08th April | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | `Tree` `Design` `Binary Search Tree` `Heap (Priority Queue)` `Binary Tree` `Data Stream` | 💚 |
-| 09th April | 
+| 09th April | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `Array` `Hash Table` `Divide and Conquer` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` `Quickselect` | 🧡 |
 | 10th April | 
 | 11th April | 
 | 12th April | 
