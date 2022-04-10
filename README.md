@@ -120,7 +120,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 07th April | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | `Array` `Heap (Priority Queue)` | 💚 |
 | 08th April | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | `Tree` `Design` `Binary Search Tree` `Heap (Priority Queue)` `Binary Tree` `Data Stream` | 💚 |
 | 09th April | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `Array` `Hash Table` `Divide and Conquer` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` `Quickselect` | 🧡 |
-| 10th April | 
+| 10th April | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | `Array` `Stack` `Simulation` | 💚 |
 | 11th April | 
 | 12th April | 
 | 13th April | 
