@@ -122,7 +122,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 09th April | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `Array` `Hash Table` `Divide and Conquer` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` `Quickselect` | 🧡 |
 | 10th April | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | `Array` `Stack` `Simulation` | 💚 |
 | 11th April | [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | `Array` `Matrix` `Simulation` | 💚 |
-| 12th April | 
+| 12th April | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | `Array` `Matrix` `Simulation` | 🧡 |
 | 13th April | 
 | 14th April | 
 | 15th April | 
