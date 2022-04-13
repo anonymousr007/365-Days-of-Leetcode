@@ -123,7 +123,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10th April | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | `Array` `Stack` `Simulation` | 💚 |
 | 11th April | [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | `Array` `Matrix` `Simulation` | 💚 |
 | 12th April | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | `Array` `Matrix` `Simulation` | 🧡 |
-| 13th April | 
+| 13th April | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | `Array` `Matrix` `Simulation` | 🧡 |
 | 14th April | 
 | 15th April | 
 | 16th April | 
