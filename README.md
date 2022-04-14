@@ -124,7 +124,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 11th April | [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | `Array` `Matrix` `Simulation` | 💚 |
 | 12th April | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | `Array` `Matrix` `Simulation` | 🧡 |
 | 13th April | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | `Array` `Matrix` `Simulation` | 🧡 |
-| 14th April | 
+| 14th April | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | `Tree` `Binary Search Tree` `Binary Tree` | 💚 |
 | 15th April | 
 | 16th April | 
 | 17th April | 
