@@ -125,7 +125,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 12th April | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | `Array` `Matrix` `Simulation` | 🧡 |
 | 13th April | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | `Array` `Matrix` `Simulation` | 🧡 |
 | 14th April | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | `Tree` `Binary Search Tree` `Binary Tree` | 💚 |
-| 15th April | 
+| 15th April | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree` | 🧡 |
 | 16th April | 
 | 17th April | 
 | 18th April | 
