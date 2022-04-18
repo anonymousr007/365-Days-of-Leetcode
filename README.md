@@ -128,7 +128,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 15th April | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree` | 🧡 |
 | 16th April | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree` | 🧡 |
 | 17th April | [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | `Stack` `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree` | 💚 |
-| 18th April | 
+| 18th April | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree` | 🧡 |
 | 19th April | 
 | 20th April | 
 | 21st April | 
