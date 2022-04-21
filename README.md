@@ -131,7 +131,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 18th April | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree` | 🧡 |
 | 19th April | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree` | 🧡 |
 | 20th April | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | `Stack` `Tree` `Design` `Binary Search Tree` `Binary Tree` `Iterator` | 🧡 |
-| 21st April | 
+| 21st April | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | `Array` `Hash Table` `Linked List` `Design` `Hash Function` | 💚 |
 | 22nd April | 
 | 23rd April | 
 | 24th April | 
