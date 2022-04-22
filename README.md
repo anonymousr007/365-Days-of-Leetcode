@@ -132,7 +132,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 19th April | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree` | 🧡 |
 | 20th April | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | `Stack` `Tree` `Design` `Binary Search Tree` `Binary Tree` `Iterator` | 🧡 |
 | 21st April | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | `Array` `Hash Table` `Linked List` `Design` `Hash Function` | 💚 |
-| 22nd April | 
+| 22nd April | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | `Array` `Hash Table` `Linked List` `Design` `Hash Function` | 💚 |
 | 23rd April | 
 | 24th April | 
 | 25th April | 
