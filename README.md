@@ -133,8 +133,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 20th April | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | `Stack` `Tree` `Design` `Binary Search Tree` `Binary Tree` `Iterator` | 🧡 |
 | 21st April | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | `Array` `Hash Table` `Linked List` `Design` `Hash Function` | 💚 |
 | 22nd April | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | `Array` `Hash Table` `Linked List` `Design` `Hash Function` | 💚 |
-| 23rd April | 
-| 24th April | 
+| 23rd April | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | `Hash Table` `String` `Design` `Hash Function` | 🧡 |
+| 24th April | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) | `Hash Table` `String` `Design` | 🧡 |
 | 25th April | 
 | 26th April | 
 | 27th April | 
