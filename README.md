@@ -135,8 +135,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 22nd April | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | `Array` `Hash Table` `Linked List` `Design` `Hash Function` | 💚 |
 | 23rd April | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | `Hash Table` `String` `Design` `Hash Function` | 🧡 |
 | 24th April | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) | `Hash Table` `String` `Design` | 🧡 |
-| 25th April | 
-| 26th April | 
+| 25th April | [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | `Array` `Design` `Iterator` | 🧡 |
+| 26th April | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | `Array` `Union Find` `Minimum Spanning Tree` | 🧡 |
 | 27th April | 
 | 28th April | 
 | 29th April | 
