@@ -138,8 +138,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 25th April | [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | `Array` `Design` `Iterator` | 🧡 |
 | 26th April | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | `Array` `Union Find` `Minimum Spanning Tree` | 🧡 |
 | 27th April | [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | `Hash Table` `String` `Depth-First Search` `Breadth-First Search` `Union Find` | 🧡 |
-| 28th April | 
-| 29th April | 
+| 28th April | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | `Array` `Binary Search` `Depth-First Search` `Breadth-First Search` `Union Find` `Heap (Priority Queue)` `Matrix` | 🧡 |
+| 29th April | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` | 🧡 |
 | 30th April | 
 
 
