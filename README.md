@@ -140,7 +140,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 27th April | [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | `Hash Table` `String` `Depth-First Search` `Breadth-First Search` `Union Find` | 🧡 |
 | 28th April | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | `Array` `Binary Search` `Depth-First Search` `Breadth-First Search` `Union Find` `Heap (Priority Queue)` `Matrix` | 🧡 |
 | 29th April | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` | 🧡 |
-| 30th April | 
+| 30th April | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | `Array` `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` `Shortest Path` | 🧡 |
 
 
 
@@ -163,7 +163,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 01.   | January      | 31    | 9    | 17     | 5    |
 | 02.   | February     | 28    | 8    | 16     | 4    |
 | 03.   | March        | 31    | 6    | 22     | 3    |
-| 04.   | April        | 30    |
+| 04.   | April        | 30    | 10   | 20     | 0    |
 | 05.   | May          | 31    |
 | 06.   | June         | 30    |
 | 07.   | July         | 31    |
@@ -172,4 +172,4 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10.   | October      | 31    |
 | 11.   | November     | 30    |
 | 12.   | December     | 31    |
-|       | Total        | 365   | 23   | 55    | 12 |
+|       | Total        | 365   | 33   | 75    | 12 |
