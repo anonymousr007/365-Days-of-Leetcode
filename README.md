@@ -142,7 +142,13 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 29th April | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` | 🧡 |
 | 30th April | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | `Array` `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` `Shortest Path` | 🧡 |
 
+## May
 
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
+| 01st May   | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | `Two Pointers` `String` `Stack` `Simulation` | 💚 |
+| 02nd May   | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | `Array` `Two Pointers` `Sorting` | 💚 |
+| 03rd May   | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | `Array` `Two Pointers` `Stack` `Greedy` `Sorting` `Monotonic Stack` | 🧡 |
 
 
 
