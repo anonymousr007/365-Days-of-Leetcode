@@ -150,7 +150,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02nd May   | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | `Array` `Two Pointers` `Sorting` | 💚 |
 | 03rd May   | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | `Array` `Two Pointers` `Stack` `Greedy` `Sorting` `Monotonic Stack` | 🧡 |
 | 04th May   | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | `Array` `Hash Table` `Two Pointers` `Sorting` | 🧡 |
-
+| 05th May   | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | `Stack` `Design` `Queue` | 💚 |
 
 
 
