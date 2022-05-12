@@ -153,7 +153,11 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 05th May   | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | `Stack` `Design` `Queue` | 💚 |
 | 06th May   | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | `String` `Stack` | 🧡 |
 | 07th May   | [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) | `Array` `Binary Search` `Stack` `Monotonic Stack` `Ordered Set` | 🧡 |
-
+| 08th May   | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | `Stack` `Tree` `Depth-First Search` `Design` `Queue` `Iterator` | 🧡 |
+| 09th May   | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | `Hash Table` `String` `Backtracking` | 🧡 |
+| 10th May   | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | `Array` `Backtracking` | 🧡 |
+| 11th May   | [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | `Dynamic Programming` | 🧡 |
+| 12th May   | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | `Array` `Backtracking` | 🧡 |
 
 
 
