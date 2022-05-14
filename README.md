@@ -158,7 +158,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10th May   | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | `Array` `Backtracking` | 🧡 |
 | 11th May   | [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | `Dynamic Programming` | 🧡 |
 | 12th May   | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | `Array` `Backtracking` | 🧡 |
-
+| 13th May   | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | `Linked List` `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
+| 14th May   | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | `Depth-First Search` `Breadth-First Search` `Graph` `Heap(Priority Queue)` `Shortest Path` | 🧡 |
 
 
 
