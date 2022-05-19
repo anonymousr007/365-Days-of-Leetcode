@@ -164,7 +164,19 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 16th May   | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | `Array` `Breadth-First Search` `Matrix` | 🧡 |
 | 17th May   | [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
 | 18th May   | [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | `Depth-First Search` `Graph` `Biconnected Component` | ❤️ |
-| 19th May   | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | `Depth-First Search` `Breadth-First Search` `Graph` `Topological Sort` `Memoization`
+| 19th May   | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | `Dynamic Programming` `Depth-First Search` `Breadth-First Search` `Graph` `Topological Sort` `Memoization` | ❤️ |
+| 20th May   |
+| 21st May   |
+| 22nd May   |
+| 23rd May   |
+| 24th May   |
+| 25th May   |
+| 26th May   |
+| 27th May   |
+| 28th May   |
+| 29th May   |
+| 30th May   |
+| 31st May   | 
 
 
 
