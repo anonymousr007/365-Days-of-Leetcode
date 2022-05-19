@@ -160,6 +160,11 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 12th May   | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | `Array` `Backtracking` | 🧡 |
 | 13th May   | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | `Linked List` `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 14th May   | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | `Depth-First Search` `Breadth-First Search` `Graph` `Heap(Priority Queue)` `Shortest Path` | 🧡 |
+| 15th May   | [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
+| 16th May   | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | `Array` `Breadth-First Search` `Matrix` | 🧡 |
+| 17th May   | [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
+| 18th May   | [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | `Depth-First Search` `Graph` `Biconnected Component` | ❤️ |
+| 19th May   | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | `Depth-First Search` `Breadth-First Search` `Graph` `Topological Sort` `Memoization`
 
 
 
