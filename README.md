@@ -178,9 +178,40 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 30th May   | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | `Math` `Bit Manipulation` | 🧡 |
 | 31st May   | [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | `Hash Table` `String` `Bit Manipulation` `Rolling Hash` `Hash Function` | 🧡 |
 
+## June
 
-
-
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
+| 01st June  | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | `Array` `Prefix Sum` | 💚 |
+| 02nd June  | []()
+| 03rd June  | []()
+| 04th June  | []()
+| 05th June  | []()
+| 06th June  | []()
+| 07th June  | []()
+| 08th June  | []()
+| 09th June  | []()
+| 10th June  | []()
+| 11th June  | []()
+| 12th June  | []()
+| 13th June  | []()
+| 14th June  | []()
+| 15th June  | []()
+| 16th June  | []()
+| 17th June  | []()
+| 18th June  | []()
+| 19th June  | []()
+| 20th June  | []()
+| 21st June  | []()
+| 22nd June  | []()
+| 23rd June  | []()
+| 24th June  | []()
+| 25th June  | []()
+| 26th June  | []()
+| 27th June  | []()
+| 28th June  | []()
+| 29th June  | []()
+| 30th June  | []()
 
 
 
@@ -193,7 +224,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02.   | February     | 28    | 8    | 16     | 4    |
 | 03.   | March        | 31    | 6    | 22     | 3    |
 | 04.   | April        | 30    | 10   | 20     | 0    |
-| 05.   | May          | 31    |
+| 05.   | May          | 31    | 7    | 20     | 4    |
 | 06.   | June         | 30    |
 | 07.   | July         | 31    |
 | 08.   | August       | 31    |
@@ -201,4 +232,4 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10.   | October      | 31    |
 | 11.   | November     | 30    |
 | 12.   | December     | 31    |
-|       | Total        | 365   | 33   | 75    | 12 |
+|       | Total        | 365   | 40   | 95    | 16 |
