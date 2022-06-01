@@ -165,18 +165,18 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 17th May   | [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
 | 18th May   | [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | `Depth-First Search` `Graph` `Biconnected Component` | ❤️ |
 | 19th May   | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | `Dynamic Programming` `Depth-First Search` `Breadth-First Search` `Graph` `Topological Sort` `Memoization` | ❤️ |
-| 20th May   |
-| 21st May   |
-| 22nd May   |
-| 23rd May   |
-| 24th May   |
-| 25th May   |
-| 26th May   |
-| 27th May   |
-| 28th May   |
-| 29th May   |
-| 30th May   |
-| 31st May   | 
+| 20th May   | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | `Array` `Dynamic Programming` `Matrix` | 🧡 |
+| 21st May   | [322. Coin Change](https://leetcode.com/problems/coin-change/) | `Array` `Dynamic Programming` `Breadth-First Search` | 🧡 |
+| 22nd May   | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | `String` `Dynamic Programming` | 🧡 |
+| 23rd May   | [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | `Array` `String` `Dynamic Programming` | 🧡 |
+| 24th May   | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | `String` `Dynamic Programming` `Stack` | ❤️ |
+| 25th May   | [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | `Array` `Binary Search` `Dynamic Programming` `Sorting` | ❤️ |
+| 26th May   | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | `Bit Manipulation` | 💚 |
+| 27th May   | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | `Math` `Bit Manipulation` | 💚 |
+| 28th May   | [268. Missing Number](https://leetcode.com/problems/missing-number/) | `Array` `Hash Table` `Math` `Bit Manipulation` `Sorting` | 💚 | 
+| 29th May   | [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | `Array` `String` `Bit Manipulation` | 🧡 |
+| 30th May   | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | `Math` `Bit Manipulation` | 🧡 |
+| 31st May   | [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | `Hash Table` `String` `Bit Manipulation` `Rolling Hash` `Hash Function` | 🧡 |
 
 
 
