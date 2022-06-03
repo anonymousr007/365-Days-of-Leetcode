@@ -183,8 +183,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
 | ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
 | 01st June  | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | `Array` `Prefix Sum` | 💚 |
-| 02nd June  | []()
-| 03rd June  | []()
+| 02nd June  | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | `Array` `Matrix` `Simulation` | 💚 |
+| 03rd June  | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | `Array` `Design` `Matrix` `Prefix Sum` | 🧡 |
 | 04th June  | []()
 | 05th June  | []()
 | 06th June  | []()
