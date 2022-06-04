@@ -185,7 +185,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 01st June  | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | `Array` `Prefix Sum` | 💚 |
 | 02nd June  | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | `Array` `Matrix` `Simulation` | 💚 |
 | 03rd June  | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | `Array` `Design` `Matrix` `Prefix Sum` | 🧡 |
-| 04th June  | []()
+| 04th June  | [51. N-Queens](https://leetcode.com/problems/n-queens/) | `Array` `Backtracking` | ❤️ |
 | 05th June  | []()
 | 06th June  | []()
 | 07th June  | []()
