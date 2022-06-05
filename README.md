@@ -186,7 +186,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02nd June  | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | `Array` `Matrix` `Simulation` | 💚 |
 | 03rd June  | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | `Array` `Design` `Matrix` `Prefix Sum` | 🧡 |
 | 04th June  | [51. N-Queens](https://leetcode.com/problems/n-queens/) | `Array` `Backtracking` | ❤️ |
-| 05th June  | []()
+| 05th June  | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | `Backtracking` | ❤️ |
 | 06th June  | []()
 | 07th June  | []()
 | 08th June  | []()
