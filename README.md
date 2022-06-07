@@ -188,7 +188,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 04th June  | [51. N-Queens](https://leetcode.com/problems/n-queens/) | `Array` `Backtracking` | ❤️ |
 | 05th June  | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | `Backtracking` | ❤️ |
 | 06th June  | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | `Hash Table` `Linked List` `Two Pointers` | 💚 |
-| 07th June  | []()
+| 07th June  | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `Array` `Two Pointers` `Sorting` | 💚 |
 | 08th June  | []()
 | 09th June  | []()
 | 10th June  | []()
