@@ -189,10 +189,10 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 05th June  | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | `Backtracking` | ❤️ |
 | 06th June  | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | `Hash Table` `Linked List` `Two Pointers` | 💚 |
 | 07th June  | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `Array` `Two Pointers` `Sorting` | 💚 |
-| 08th June  | []()
-| 09th June  | []()
-| 10th June  | []()
-| 11th June  | []()
+| 08th June  | [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | `Two Pointers` `String` | 💚 |
+| 09th June  | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | `Array` `Two Pointers` `Binary Search` | ❤️ |
+| 10th June  | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `Hash Table` `String` `Sliding Window` | ❤️ |
+| 11th June  | [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | `Array` `Hash Table` `Binary Search` `Sliding Window` `Prefix Sum` | ❤️ |
 | 12th June  | []()
 | 13th June  | []()
 | 14th June  | []()
