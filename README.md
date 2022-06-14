@@ -194,8 +194,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10th June  | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `Hash Table` `String` `Sliding Window` | 🧡 |
 | 11th June  | [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | `Array` `Hash Table` `Binary Search` `Sliding Window` `Prefix Sum` | 🧡 |
 | 12th June  | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | `Array` `Hash Table` `Sliding Window` | 🧡 |
-| 13th June  | []()
-| 14th June  | []()
+| 13th June  | [120. Triangle](https://leetcode.com/problems/triangle/) | `Array` `Dynamic Programming` | 🧡 |
+| 14th June  | [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | `String` `Dynamic Programming` | 🧡 |
 | 15th June  | []()
 | 16th June  | []()
 | 17th June  | []()
