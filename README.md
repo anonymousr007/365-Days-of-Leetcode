@@ -196,7 +196,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 12th June  | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | `Array` `Hash Table` `Sliding Window` | 🧡 |
 | 13th June  | [120. Triangle](https://leetcode.com/problems/triangle/) | `Array` `Dynamic Programming` | 🧡 |
 | 14th June  | [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | `String` `Dynamic Programming` | 🧡 |
-| 15th June  | []()
+| 15th June  | [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | `Array` `Hash Table` `Two Pointers` `String` `Dynamic Programming` | 🧡 |
 | 16th June  | []()
 | 17th June  | []()
 | 18th June  | []()
