@@ -197,8 +197,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 13th June  | [120. Triangle](https://leetcode.com/problems/triangle/) | `Array` `Dynamic Programming` | 🧡 |
 | 14th June  | [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | `String` `Dynamic Programming` | 🧡 |
 | 15th June  | [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | `Array` `Hash Table` `Two Pointers` `String` `Dynamic Programming` | 🧡 |
-| 16th June  | []()
-| 17th June  | []()
+| 16th June  | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | `String` `Dynamic Programming` | 🧡 |
+| 17th June  | [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | `Dynamic Programming` `Tree` `Depth-First Search` `Binary Tree` | ❤️ |
 | 18th June  | []()
 | 19th June  | []()
 | 20th June  | []()
