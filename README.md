@@ -199,7 +199,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 15th June  | [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | `Array` `Hash Table` `Two Pointers` `String` `Dynamic Programming` | 🧡 |
 | 16th June  | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | `String` `Dynamic Programming` | 🧡 |
 | 17th June  | [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | `Dynamic Programming` `Tree` `Depth-First Search` `Binary Tree` | ❤️ |
-| 18th June  | []()
+| 18th June  | [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | `String` `Design` `Trie` | ❤️ |
 | 19th June  | []()
 | 20th June  | []()
 | 21st June  | []()
