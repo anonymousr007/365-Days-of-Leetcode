@@ -200,7 +200,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 16th June  | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | `String` `Dynamic Programming` | 🧡 |
 | 17th June  | [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | `Dynamic Programming` `Tree` `Depth-First Search` `Binary Tree` | ❤️ |
 | 18th June  | [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | `String` `Design` `Trie` | ❤️ |
-| 19th June  | []()
+| 19th June  | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | `Array` `String` `Trie` | 🧡 |
 | 20th June  | []()
 | 21st June  | []()
 | 22nd June  | []()
