@@ -201,7 +201,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 17th June  | [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | `Dynamic Programming` `Tree` `Depth-First Search` `Binary Tree` | ❤️ |
 | 18th June  | [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | `String` `Design` `Trie` | ❤️ |
 | 19th June  | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | `Array` `String` `Trie` | 🧡 |
-| 20th June  | []()
+| 20th June  | [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | `Array` `Hash Table` `String` `Trie` | 🧡 |
 | 21st June  | []()
 | 22nd June  | []()
 | 23rd June  | []()
