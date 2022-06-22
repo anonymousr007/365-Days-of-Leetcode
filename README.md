@@ -203,7 +203,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 19th June  | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | `Array` `String` `Trie` | 🧡 |
 | 20th June  | [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | `Array` `Hash Table` `String` `Trie` | 🧡 |
 | 21st June  | [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | `Array` `Greedy` `Heap (Priority Queue)` | 🧡 |
-| 22nd June  | []()
+| 22nd June  | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | `Array` `Divide and Conquer` `Sorting` `Heap (Priority Queue)` `QuickSelect` | 🧡 |
 | 23rd June  | []()
 | 24th June  | []()
 | 25th June  | []()
