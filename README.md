@@ -208,7 +208,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 24th June  | [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | `Array` `Heap (Priority Queue)` | ❤️ |
 | 25th June  | [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | `Array` | 🧡 |
 | 26th June  | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | `Array` `Sliding Window` `Prefix Sum` | 🧡 |
-| 27th June  | []()
+| 27th June  | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | `String` `Greedy` | 🧡 |
 | 28th June  | []()
 | 29th June  | []()
 | 30th June  | []()
