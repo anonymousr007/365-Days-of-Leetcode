@@ -209,7 +209,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 25th June  | [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | `Array` | 🧡 |
 | 26th June  | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | `Array` `Sliding Window` `Prefix Sum` | 🧡 |
 | 27th June  | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | `String` `Greedy` | 🧡 |
-| 28th June  | []()
+| 28th June  | [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | `String` `Greedy` `Sorting` | 🧡 |
 | 29th June  | []()
 | 30th June  | []()
 
