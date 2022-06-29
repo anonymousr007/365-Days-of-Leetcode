@@ -210,7 +210,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 26th June  | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | `Array` `Sliding Window` `Prefix Sum` | 🧡 |
 | 27th June  | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | `String` `Greedy` | 🧡 |
 | 28th June  | [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | `String` `Greedy` `Sorting` | 🧡 |
-| 29th June  | []()
+| 29th June  | [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | `Array` `Greedy` `Binary Indexed Tree` `Segment Tree` `Sorting` | 🧡 |
 | 30th June  | []()
 
 
