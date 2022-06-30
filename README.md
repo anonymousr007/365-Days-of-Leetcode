@@ -211,7 +211,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 27th June  | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | `String` `Greedy` | 🧡 |
 | 28th June  | [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | `String` `Greedy` `Sorting` | 🧡 |
 | 29th June  | [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | `Array` `Greedy` `Binary Indexed Tree` `Segment Tree` `Sorting` | 🧡 |
-| 30th June  | []()
+| 30th June  | [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | `Array` `Math` `Sorting` | 🧡 |
 
 
 
@@ -220,16 +220,16 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
 | ----- | ------------ | ----- | ---- | ------ | ---- |
-| 01.   | January      | 31    | 9    | 17     | 5    |
-| 02.   | February     | 28    | 8    | 16     | 4    |
-| 03.   | March        | 31    | 6    | 22     | 3    |
-| 04.   | April        | 30    | 10   | 20     | 0    |
-| 05.   | May          | 31    | 7    | 20     | 4    |
-| 06.   | June         | 30    |
-| 07.   | July         | 31    |
-| 08.   | August       | 31    |
-| 09.   | September    | 30    |
-| 10.   | October      | 31    |
-| 11.   | November     | 30    |
-| 12.   | December     | 31    |
-|       | Total        | 365   | 40   | 95    | 16 |
+| 01.   | January      | 31/31 | 9    | 17     | 5    |
+| 02.   | February     | 28/28 | 8    | 16     | 4    |
+| 03.   | March        | 31/31 | 6    | 22     | 3    |
+| 04.   | April        | 30/30 | 10   | 20     | 0    |
+| 05.   | May          | 31/31 | 7    | 20     | 4    |
+| 06.   | June         | 30/30 | 5    | 19     | 6    |
+| 07.   | July         | 00/31 |
+| 08.   | August       | 00/31 |
+| 09.   | September    | 00/30 |
+| 10.   | October      | 00/31 |
+| 11.   | November     | 00/30 |
+| 12.   | December     | 00/31 |
+|       | Total        | 181/365 | 45   | 114    | 22   |
