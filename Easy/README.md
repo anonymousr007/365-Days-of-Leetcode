@@ -1,49 +1,48 @@
 # Leetcode - Easy
 
-- `Array`
+| Tag: 1  | Tag: 2 |
+| ------- | ------ |
+| `Array` |
+| `Array` | `Binary Search` |
+| `Array` | `Bit Manipulation` |
+| `Array` | `Dynamic Programming`
+| `Array` | `Enumeration`
+| `Array` | `Greedy`
+| `Array` | `Hash Table`
+| `Array` | `Heap (Priority Queue)`
+| `Array` | `Math`
+| `Array` | `Matrix`
+| `Array` | `Prefix Sum`
+| `Array` | `Simulation`
+| `Array` | `Sorting`
+| `Array` | `String`
+| `Array` | `Two Pointers`
 
----
-
-- `Array` `Bit Manipulation`
-- `Array` `Binary Search`
-- `Array` `Dynamic Programming`
-- `Array` `Enumeration`
-- `Array` `Greedy`
-- `Array` `Hash Table`
-- `Array` `Heap (Priority Queue)`
-- `Array` `Math`
-- `Array` `Matrix`
-- `Array` `Prefix Sum`
-- `Array` `Simulation`
-- `Array` `Sorting`
-- `Array` `String`
-- `Array` ``
-- `Array`
-
----
-
-- `Array` `Binary Search` `Sorting`
-- `Array` `Binary Search` `Matrix`
-- `Array` `Simulation` `String`
-- `Array` `Math` `Prefix Sum`
-- `Array` `Math` `Geometry`
-- `Array` `Math` `Simulation`
-- `Array` `Math` `Greedy`
-- `Array` `Matrix` `Simulation`
+| Tag: 1  | Tag: 2          | Tag: 3    |
+| ------- | ------          | --------- |
+| `Array` | `Binary Search` | `Matrix`  |
+| `Array` | `Binary Search` | `Sorting` |
+| `Array` | `String`        | `Simulation` |
+| `Array` | `String`        | `Two Pointers` |
+| `Array` | `Hash Table`    | `Counting`
+| `Array` | `Hash Table`    | `String`
+| `Array` | `Hash Table`    | `Sorting`
+| `Array` | `Math`          | `Prefix Sum`
+| `Array` | `Math`          | `Geometry`
+| `Array` | `Math`          | `Simulation`
+| `Array` | `Math`          | `Greedy`
+| `Array` | `Math`          | `Number Theory`
+| `Array` `Matrix` `Simulation`
 - `Array` `Greedy` `Sorting`
 - `Array` `String` `Stack`
 - `Array` `Stack` `Monotonic Stack`
 - `Array` `Stack` `Simulation`
-- `Array` `Hash Table` `Counting`
-- `Array` `Hash Table` `String`
-- `Array` `Hash Table` `Sorting`
 - `Array` `Sorting` `Counting Sort`
-- `Array` `Two Pointers` `String`
 - `Array` `Two Pointers` `Sorting`
 - `Array` `Heap (Priority Queue)` `Sorting`
-- `Array` `Math` `Number Theory`
 - `Array` `Matrix` `Simulation`
-- `Array`
+- `Array` `Queue` `Simulation`
+
 
 ---
 
@@ -62,7 +61,7 @@
 - `Array` `Hash Table` `Bit Manipulation` `Counting`
 - `Array` `Bit Manipulation` `Sorting` `Counting`
 - `Array` `Hash Table` `Binary Search` `Counting`
-- 
+- `Array` `String` `Trie` `Sorting`
 - `Array` `Two Pointers` `Matrix` `Simulation`
 - `Array` `Two Pointers` `Binary Search` `Sorting`
 - `Array` `Math` `Backtracking` `Bit Manipulation`
