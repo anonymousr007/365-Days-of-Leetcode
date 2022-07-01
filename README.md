@@ -4,8 +4,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ## January 
 
-| Date         | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
-| ------------ | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st Jan | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | `Array` `Dynamic Programming` | ❤️ |
 | 02nd Jan | [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | `Array` `Hash Table` `Counting` | 🧡 |
 | 03rd Jan | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | `Array` `Hash Table` `Graph` | 💚 |
@@ -40,8 +40,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ## February
 
-| Date         | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
-| ------------ | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st Feb     | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Array` `Dynamic Programming` | 💚 |
 | 02nd Feb     | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/) | `Hash Table` `String` `Sliding Window` | 🧡 |
 | 03rd Feb     | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/submissions/) | `Array` `Hash Table` | 🧡 |
@@ -73,8 +73,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ## March
 
-| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
-| ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st March | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | `Dynamic Programming` `Bit Manipulation` | 💚 |
 | 02nd March | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | `Two Pointers` `String` `Dynamic Programming` | 💚 |
 | 03rd March | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | `Array` `Dynamic Programming` | 🧡 |
@@ -109,8 +109,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ## April
 
-| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
-| ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st April | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | `Two Pointers` `String` `Recursion` | 💚 |
 | 02nd April | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | `Two Pointers` `String` `Greedy` | 💚 |
 | 03rd April | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | `Array` `Two Pointers` | 🧡 |
@@ -144,8 +144,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ## May
 
-| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
-| ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st May   | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | `Two Pointers` `String` `Stack` `Simulation` | 💚 |
 | 02nd May   | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | `Array` `Two Pointers` `Sorting` | 💚 |
 | 03rd May   | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | `Array` `Two Pointers` `Stack` `Greedy` `Sorting` `Monotonic Stack` | 🧡 |
@@ -180,8 +180,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ## June
 
-| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Java Code | Python Code |
-| ---------- | ----------------------- | ---- | ---------- | -------- | --------- | ----------- |
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st June  | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | `Array` `Prefix Sum` | 💚 |
 | 02nd June  | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | `Array` `Matrix` `Simulation` | 💚 |
 | 03rd June  | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | `Array` `Design` `Matrix` `Prefix Sum` | 🧡 |
@@ -213,7 +213,11 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 29th June  | [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | `Array` `Greedy` `Binary Indexed Tree` `Segment Tree` `Sorting` | 🧡 |
 | 30th June  | [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | `Array` `Math` `Sorting` | 🧡 |
 
+# July 
 
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
+| 01st July  | [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | `Array` `Greedy` `Sorting` | 💚 |
 
 
 
