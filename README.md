@@ -1,6 +1,10 @@
 # 365 Days of Leetcode 
 
+---
+
 Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
+
+---
 
 ## January 
 
@@ -38,6 +42,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 30th Jan | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | `Array` `Math` `Two Pointers` | 🧡 |
 | 31th Jan | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | `Array` `Matrix` | 💚 |
 
+---
+
 ## February
 
 | Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
@@ -70,6 +76,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 26th Feb     | [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | `Dynamic Programming` `Bit Manipulation` `Breadth-First Search` `Graph` `Bitmask` | ❤️ |
 | 27th Feb     | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 28th Feb     | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | `Array` | 💚 |
+
+---
 
 ## March
 
@@ -107,6 +115,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 30th March | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | `Array` `Binary Search` `Matrix` | 🧡 |
 | 31st March | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | `Array` `Binary Search` `Dynamic Programming` `Greedy` | ❤️ |
 
+---
+
 ## April
 
 | Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
@@ -141,6 +151,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 28th April | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | `Array` `Binary Search` `Depth-First Search` `Breadth-First Search` `Union Find` `Heap (Priority Queue)` `Matrix` | 🧡 |
 | 29th April | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` | 🧡 |
 | 30th April | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | `Array` `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` `Shortest Path` | 🧡 |
+
+---
 
 ## May
 
@@ -178,6 +190,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 30th May   | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | `Math` `Bit Manipulation` | 🧡 |
 | 31st May   | [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | `Hash Table` `String` `Bit Manipulation` `Rolling Hash` `Hash Function` | 🧡 |
 
+---
+
 ## June
 
 | Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
@@ -213,6 +227,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 29th June  | [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | `Array` `Greedy` `Binary Indexed Tree` `Segment Tree` `Sorting` | 🧡 |
 | 30th June  | [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | `Array` `Math` `Sorting` | 🧡 |
 
+---
+
 # July 
 
 | Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
@@ -220,7 +236,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 01st July  | [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | `Array` `Greedy` `Sorting` | 💚 |
 | 02nd July  | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | `Array` `Greedy` `Sorting` | 🧡 |
 
-
+---
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
 | ----- | ------------ | ----- | ---- | ------ | ---- |
