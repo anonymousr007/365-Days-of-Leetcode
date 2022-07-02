@@ -218,7 +218,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
 | ---------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st July  | [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | `Array` `Greedy` `Sorting` | 💚 |
-
+| 02nd July  | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | `Array` `Greedy` `Sorting` | 🧡 |
 
 
 
