@@ -237,6 +237,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02nd July  | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | `Array` `Greedy` `Sorting` | 🧡 |
 | 03rd July  | [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | `Array` `Dynamic Programming` `Sorting` | 🧡 |
 | 04th July  | [135. Candy](https://leetcode.com/problems/candy/) | `Array` `Greedy` | ❤️ |
+
 ---
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
