@@ -240,6 +240,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 05th July  | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | `Array` `Hash Table` `Union Find` | 🧡 |
 | 06th July  | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | `Math` `Dynamic Programming` `Recursion` `Memoization` | 💚 |
 | 07th July  | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | `String` `Dynamic Programming` | 🧡 |
+| 08th July  | [1473. Paint House III](https://leetcode.com/problems/paint-house-iii/) | `Array` `Dynamic Programming` | ❤️ |
+| 09th July  | [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | `Array` `Dynamic Programming` `Queue` `Sliding Window` `Heap (Priority Queue)` `Monotonic Queue` | 🧡 |
 ---
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
