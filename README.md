@@ -242,6 +242,29 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 07th July  | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | `String` `Dynamic Programming` | 🧡 |
 | 08th July  | [1473. Paint House III](https://leetcode.com/problems/paint-house-iii/) | `Array` `Dynamic Programming` | ❤️ |
 | 09th July  | [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | `Array` `Dynamic Programming` `Queue` `Sliding Window` `Heap (Priority Queue)` `Monotonic Queue` | 🧡 |
+| 10th July  | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | `Array` `Dynamic Programming` | 💚 |
+| 11th July  | []()
+| 12th July  | []()
+| 13th July  | []()
+| 14th July  | []()
+| 15th July  | []()
+| 16th July  | []()
+| 17th July  | []()
+| 18th July  | []()
+| 19th July  | []()
+| 20th July  | []()
+| 21st July  | []()
+| 22nd July  | []()
+| 23rd July  | []()
+| 24th July  | []()
+| 25th July  | []()
+| 26th July  | []()
+| 27th July  | []()
+| 28th July  | []()
+| 29th July  | []()
+| 30th July  | []()
+| 31st July  | []()
+
 ---
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
