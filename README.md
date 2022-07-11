@@ -243,7 +243,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 08th July  | [1473. Paint House III](https://leetcode.com/problems/paint-house-iii/) | `Array` `Dynamic Programming` | ❤️ |
 | 09th July  | [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | `Array` `Dynamic Programming` `Queue` `Sliding Window` `Heap (Priority Queue)` `Monotonic Queue` | 🧡 |
 | 10th July  | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | `Array` `Dynamic Programming` | 💚 |
-| 11th July  | []()
+| 11th July  | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 12th July  | []()
 | 13th July  | []()
 | 14th July  | []()
