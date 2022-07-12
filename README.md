@@ -244,7 +244,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 09th July  | [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | `Array` `Dynamic Programming` `Queue` `Sliding Window` `Heap (Priority Queue)` `Monotonic Queue` | 🧡 |
 | 10th July  | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | `Array` `Dynamic Programming` | 💚 |
 | 11th July  | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
-| 12th July  | []()
+| 12th July  | [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | `Array` `Dynamic Programming` `Backtracking` `Bit Manipulation` `Bitmask` | 🧡 |
 | 13th July  | []()
 | 14th July  | []()
 | 15th July  | []()
