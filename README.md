@@ -245,7 +245,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10th July  | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | `Array` `Dynamic Programming` | 💚 |
 | 11th July  | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 12th July  | [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | `Array` `Dynamic Programming` `Backtracking` `Bit Manipulation` `Bitmask` | 🧡 |
-| 13th July  | []()
+| 13th July  | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | `Tree` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 14th July  | []()
 | 15th July  | []()
 | 16th July  | []()
