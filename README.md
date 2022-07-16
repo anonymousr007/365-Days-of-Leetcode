@@ -248,7 +248,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 13th July  | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | `Tree` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 14th July  | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | `Array` `Hash Table` `Divide and Conquer` `Tree` `Binary Tree` | 🧡 |
 | 15th July  | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | `Array` `Depth-First Search` `Breadth-First Search` `Union Find` `Matrix` | 🧡 |
-| 16th July  | []()
+| 16th July  | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | `Dynamic Programming` | 🧡 |
 | 17th July  | []()
 | 18th July  | []()
 | 19th July  | []()
