@@ -250,8 +250,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 15th July  | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | `Array` `Depth-First Search` `Breadth-First Search` `Union Find` `Matrix` | 🧡 |
 | 16th July  | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | `Dynamic Programming` | 🧡 |
 | 17th July  | [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | `Dynamic Programming` | ❤️ |
-| 18th July  | []()
-| 19th July  | []()
+| 18th July  | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | `Array` `Hash Table` `Matrix` `Prefix Sum` | ❤️ |
+| 19th July  | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | `Array` `Dynamic Programming` | 💚 |
 | 20th July  | []()
 | 21st July  | []()
 | 22nd July  | []()
