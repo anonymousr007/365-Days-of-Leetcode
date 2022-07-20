@@ -252,7 +252,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 17th July  | [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | `Dynamic Programming` | ❤️ |
 | 18th July  | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | `Array` `Hash Table` `Matrix` `Prefix Sum` | ❤️ |
 | 19th July  | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | `Array` `Dynamic Programming` | 💚 |
-| 20th July  | []()
+| 20th July  | [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | `Hash Table` `String` `Trie` `Sorting` | 🧡 |
 | 21st July  | []()
 | 22nd July  | []()
 | 23rd July  | []()
