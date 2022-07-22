@@ -253,8 +253,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 18th July  | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | `Array` `Hash Table` `Matrix` `Prefix Sum` | ❤️ |
 | 19th July  | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | `Array` `Dynamic Programming` | 💚 |
 | 20th July  | [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | `Hash Table` `String` `Trie` `Sorting` | 🧡 |
-| 21st July  | []()
-| 22nd July  | []()
+| 21st July  | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | `Linked List` | 🧡 |
+| 22nd July  | [86. Partition List](https://leetcode.com/problems/partition-list/) | `Linked List` `Two Pointers` | 🧡 |
 | 23rd July  | []()
 | 24th July  | []()
 | 25th July  | []()
