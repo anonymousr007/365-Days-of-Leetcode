@@ -304,3 +304,74 @@ all the best!! and happy coding ❤️
 ```
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 1 question of Leetcode and Codeforces
+- Weekdays 1.5 hr (90 Min) 5*1.5 = 7.5 hrs
+- 3 hrs minimum in weekends (6) 
+- week = 13.5
+- 100*13.5 = 1350 (1000)
+- 700 Days 
+- 100 days bakchodi 
+- 100 - A (topics -------)
+- 100 - B (topics -----)
+- 100 - C (topics ---)
+- 100 - D (topics --)
+- 100 - E (topics -)
+- 100 - F (topics )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
