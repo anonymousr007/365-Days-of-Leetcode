@@ -255,8 +255,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 20th July  | [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | `Hash Table` `String` `Trie` `Sorting` | 🧡 |
 | 21st July  | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | `Linked List` | 🧡 |
 | 22nd July  | [86. Partition List](https://leetcode.com/problems/partition-list/) | `Linked List` `Two Pointers` | 🧡 |
-| 23rd July  | []()
-| 24th July  | []()
+| 23rd July  | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | `Array` `Binary Search` `Divide and Conquer` `Binary Indexed Tree` `Segment Tree` `Merge Sort` `Ordered Set` | ❤️ |
+| 24th July  | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Array` `Binary Search` `Divide and Conquer` `Matrix` | 🧡 |
 | 25th July  | []()
 | 26th July  | []()
 | 27th July  | []()
