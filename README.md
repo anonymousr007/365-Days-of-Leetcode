@@ -257,8 +257,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 22nd July  | [86. Partition List](https://leetcode.com/problems/partition-list/) | `Linked List` `Two Pointers` | 🧡 |
 | 23rd July  | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | `Array` `Binary Search` `Divide and Conquer` `Binary Indexed Tree` `Segment Tree` `Merge Sort` `Ordered Set` | ❤️ |
 | 24th July  | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Array` `Binary Search` `Divide and Conquer` `Matrix` | 🧡 |
-| 25th July  | []()
-| 26th July  | []()
+| 25th July  | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | `Array` `Binary Search` | 🧡 |
+| 26th July  | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
 | 27th July  | []()
 | 28th July  | []()
 | 29th July  | []()
