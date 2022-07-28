@@ -260,7 +260,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 25th July  | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | `Array` `Binary Search` | 🧡 |
 | 26th July  | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
 | 27th July  | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | `Linked List` `Stack` `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
-| 28th July  | []()
+| 28th July  | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Hash Table` `String` `Sorting` | 💚 |
 | 29th July  | []()
 | 30th July  | []()
 | 31st July  | []()
