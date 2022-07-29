@@ -261,7 +261,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 26th July  | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
 | 27th July  | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | `Linked List` `Stack` `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
 | 28th July  | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Hash Table` `String` `Sorting` | 💚 |
-| 29th July  | []()
+| 29th July  | [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | `Array` `Hash Table` `String` | 🧡 |
 | 30th July  | []()
 | 31st July  | []()
 
