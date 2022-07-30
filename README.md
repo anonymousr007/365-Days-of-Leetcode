@@ -262,7 +262,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 27th July  | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | `Linked List` `Stack` `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
 | 28th July  | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Hash Table` `String` `Sorting` | 💚 |
 | 29th July  | [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | `Array` `Hash Table` `String` | 🧡 |
-| 30th July  | []()
+| 30th July  | [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | `Array` `Hash Table` `String` | 🧡 |
 | 31st July  | []()
 
 ---
