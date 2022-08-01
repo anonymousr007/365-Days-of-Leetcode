@@ -267,6 +267,15 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ---
 
+# August
+
+| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| ---------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
+| 01st Aug   | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | `Math` `Dynamic Programming` `Combinatorics` | 🧡 |
+
+
+---
+
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
 | ----- | ------------ | ----- | ---- | ------ | ---- |
 | 01.   | January      | 31/31 | 9    | 17     | 5    |
@@ -275,13 +284,13 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 04.   | April        | 30/30 | 10   | 20     | 0    |
 | 05.   | May          | 31/31 | 7    | 20     | 4    |
 | 06.   | June         | 30/30 | 5    | 19     | 6    |
-| 07.   | July         | 00/31 |
+| 07.   | July         | 31/31 | 5    | 21     | 5    |
 | 08.   | August       | 00/31 |
 | 09.   | September    | 00/30 |
 | 10.   | October      | 00/31 |
 | 11.   | November     | 00/30 |
 | 12.   | December     | 00/31 |
-|       | Total        | 181/365 | 45   | 114    | 22   |
+|       | Total        | 212/365 | 50   | 135    | 27   |
 
 ```
 
