@@ -263,7 +263,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 28th July  | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Hash Table` `String` `Sorting` | 💚 |
 | 29th July  | [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | `Array` `Hash Table` `String` | 🧡 |
 | 30th July  | [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | `Array` `Hash Table` `String` | 🧡 |
-| 31st July  | []()
+| 31st July  | [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | `Array` `Design` `Binary Indexed Tree` `Segment Tree` | 🧡 |
 
 ---
 
