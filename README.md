@@ -269,10 +269,10 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 # August
 
-| Date       | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
-| ---------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
-| 01st Aug   | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | `Math` `Dynamic Programming` `Combinatorics` | 🧡 |
-
+| Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
+| 01st Aug | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | `Math` `Dynamic Programming` `Combinatorics` | 🧡 |
+| 02nd Aug | [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | `Array` `Binary Search` `Sorting` `Heap (Priority Queue)` `Matrix`  | 🧡 |
 
 ---
 
