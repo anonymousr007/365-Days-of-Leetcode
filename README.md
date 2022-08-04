@@ -274,6 +274,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 01st Aug | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | `Math` `Dynamic Programming` `Combinatorics` | 🧡 |
 | 02nd Aug | [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | `Array` `Binary Search` `Sorting` `Heap (Priority Queue)` `Matrix`  | 🧡 |
 | 03rd Aug | [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) | `Binary Search` `Design` `Segment Tree` `Ordered Set` | 🧡 |
+| 04th Aug | [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | `Math` `Geometry` | 🧡 |
 ---
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
