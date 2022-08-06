@@ -275,6 +275,34 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02nd Aug | [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | `Array` `Binary Search` `Sorting` `Heap (Priority Queue)` `Matrix`  | 🧡 |
 | 03rd Aug | [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) | `Binary Search` `Design` `Segment Tree` `Ordered Set` | 🧡 |
 | 04th Aug | [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | `Math` `Geometry` | 🧡 |
+| 05th Aug | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | `Array` `Dynamic Programming` | 🧡 |
+| 06th Aug | [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/) | `Math` `Dynamic Programming` `Combinatorics` | ❤️ |
+| 07th Aug | 
+| 08th Aug | 
+| 09th Aug | 
+| 10th Aug | 
+| 11th Aug | 
+| 12th Aug | 
+| 13th Aug | 
+| 14th Aug | 
+| 15th Aug | 
+| 16th Aug | 
+| 17th Aug | 
+| 18th Aug | 
+| 19th Aug | 
+| 20th Aug | 
+| 21st Aug | 
+| 22nd Aug | 
+| 23rd Aug | 
+| 24th Aug | 
+| 25th Aug | 
+| 26th Aug | 
+| 27th Aug | 
+| 28th Aug | 
+| 29th Aug | 
+| 30th Aug | 
+| 31th Aug | 
+
 ---
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
