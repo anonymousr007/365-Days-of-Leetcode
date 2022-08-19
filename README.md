@@ -277,17 +277,17 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 04th Aug | [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | `Math` `Geometry` | 🧡 |
 | 05th Aug | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | `Array` `Dynamic Programming` | 🧡 |
 | 06th Aug | [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/) | `Math` `Dynamic Programming` `Combinatorics` | ❤️ |
-| 07th Aug | 
-| 08th Aug | 
-| 09th Aug | 
-| 10th Aug | 
-| 11th Aug | 
-| 12th Aug | 
-| 13th Aug | 
-| 14th Aug | 
-| 15th Aug | 
-| 16th Aug | 
-| 17th Aug | 
+| 07th Aug | [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | `Dynamic Programming` | ❤️ |
+| 08th Aug | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | `Array` `Binary Search` `Dynamic Programming` | 🧡 |
+| 09th Aug | [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | `Array` `Hash Table` `Dynamic Programming` | 🧡 |
+| 10th Aug | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | `Array` `Divide and Conquer` `Tree` `Binary Search Tree` `Binary Tree` | 💚 |
+| 11th Aug | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | `Tree` `Depth First Search` `Binary Search Tree` `Binary Tree` | 🧡 |
+| 12th Aug | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | `Tree` `Depth First Search` `Binary Search Tree` `Binary Tree` | 💚 |
+| 13th Aug | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | `Hash Table` `String` `Sliding Window` | ❤️ |
+| 14th Aug | [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | `Hash Table` `String` `Backtracking` `Breadth-First Search` | ❤️ |
+| 15th Aug | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `Hash Table` `Math` `String` | 💚 |
+| 16th Aug | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | `Hash Table` `String` `Queue` `Counting` | 💚 |
+| 17th Aug | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | `Array` `Hash Table` `String` | 💚 |
 | 18th Aug | 
 | 19th Aug | 
 | 20th Aug | 
