@@ -288,8 +288,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 15th Aug | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `Hash Table` `Math` `String` | 💚 |
 | 16th Aug | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | `Hash Table` `String` `Queue` `Counting` | 💚 |
 | 17th Aug | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | `Array` `Hash Table` `String` | 💚 |
-| 18th Aug | 
-| 19th Aug | 
+| 18th Aug | [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | `Array` `Hash Table` `Greedy` `Sorting` `Heap (Priority Queue)` | 🧡 |
+| 19th Aug | [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | `Array` `Hash Table` `Greedy` `Heap (Priority Queue)` | 🧡 |
 | 20th Aug | 
 | 21st Aug | 
 | 22nd Aug | 
