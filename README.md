@@ -290,10 +290,10 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 17th Aug | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | `Array` `Hash Table` `String` | 💚 |
 | 18th Aug | [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | `Array` `Hash Table` `Greedy` `Sorting` `Heap (Priority Queue)` | 🧡 |
 | 19th Aug | [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | `Array` `Hash Table` `Greedy` `Heap (Priority Queue)` | 🧡 |
-| 20th Aug | 
-| 21st Aug | 
-| 22nd Aug | 
-| 23rd Aug | 
+| 20th Aug | [871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | `Array` `Dynamic Programming` `Greedy` `Heap (Priority Queue)` | ❤️ |
+| 21st Aug | [936. Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | `String` `Stack` `Greedy` `Queue` | ❤️ |
+| 22nd Aug | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | `Math` `Bit Manipulation` `Recursion` | 💚 |
+| 23rd Aug | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | `Linked List` `Two Pointers` `Stack` `Recursion` | 💚 |
 | 24th Aug | 
 | 25th Aug | 
 | 26th Aug | 
