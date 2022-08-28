@@ -295,10 +295,10 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 22nd Aug | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | `Math` `Bit Manipulation` `Recursion` | 💚 |
 | 23rd Aug | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | `Linked List` `Two Pointers` `Stack` `Recursion` | 💚 |
 | 24th Aug | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | `Math` `Recursion` | 💚 |
-| 25th Aug | 
-| 26th Aug | 
-| 27th Aug | 
-| 28th Aug | 
+| 25th Aug | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | `Hash Table` `String` `Counting` | 💚 |
+| 26th Aug | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | `Math` `Sorting` `Counting` `Enumeration` | 🧡 |
+| 27th Aug | [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | `Array` `Binary Search` `Matrix` `Prefix Sum` `Ordered Set` | ❤️ |
+| 28th Aug | [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | `Array` `Sorting` `Matrix` | 🧡 |
 | 29th Aug | 
 | 30th Aug | 
 | 31th Aug | 
