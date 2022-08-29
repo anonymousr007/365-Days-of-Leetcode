@@ -299,7 +299,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 26th Aug | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | `Math` `Sorting` `Counting` `Enumeration` | 🧡 |
 | 27th Aug | [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | `Array` `Binary Search` `Matrix` `Prefix Sum` `Ordered Set` | ❤️ |
 | 28th Aug | [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | `Array` `Sorting` `Matrix` | 🧡 |
-| 29th Aug | 
+| 29th Aug | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | `Array` `Depth-First Search` `Breadth-First Search` `Union Find` `Matrix` | 🧡 |
 | 30th Aug | 
 | 31th Aug | 
 
