@@ -305,6 +305,43 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ---
 
+# September
+
+| Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
+| 01st Sep | []() | 
+| 02nd Sep | []() | 
+| 03rd Sep | []() | 
+| 04th Sep | []() | 
+| 05th Sep | []() | 
+| 06th Sep | []() | 
+| 07th Sep | []() | 
+| 08th Sep | []() | 
+| 09th Sep | []() | 
+| 10th Sep | []() | 
+| 11th Sep | []() | 
+| 12th Sep | []() | 
+| 13th Sep | []() | 
+| 14th Sep | []() | 
+| 15th Sep | []() | 
+| 16th Sep | []() | 
+| 17th Sep | []() | 
+| 18th Sep | []() | 
+| 19th Sep | []() | 
+| 20th Sep | []() | 
+| 21st Sep | []() | 
+| 22nd Sep | []() | 
+| 23rd Sep | []() | 
+| 24th Sep | []() | 
+| 25th Sep | []() | 
+| 26th Sep | []() | 
+| 27th Sep | []() | 
+| 28th Sep | []() | 
+| 29th Sep | []() | 
+| 30th Sep | []() | 
+
+---
+
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
 | ----- | ------------ | ----- | ---- | ------ | ---- |
 | 01.   | January      | 31/31 | 9    | 17     | 5    |
@@ -314,12 +351,12 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 05.   | May          | 31/31 | 7    | 20     | 4    |
 | 06.   | June         | 30/30 | 5    | 19     | 6    |
 | 07.   | July         | 31/31 | 5    | 21     | 5    |
-| 08.   | August       | 00/31 |
+| 08.   | August       | 31/31 | 7    | 15     | 9    |
 | 09.   | September    | 00/30 |
 | 10.   | October      | 00/31 |
 | 11.   | November     | 00/30 |
 | 12.   | December     | 00/31 |
-|       | Total        | 212/365 | 50   | 135    | 27   |
+|       | Total        | 243/365 | 57   | 150    | 36   |
 
 ```
 
