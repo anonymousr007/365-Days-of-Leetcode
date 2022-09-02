@@ -309,8 +309,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 | Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
-| 01st Sep | []() | 
-| 02nd Sep | []() | 
+| 01st Sep | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
+| 02nd Sep | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
 | 03rd Sep | []() | 
 | 04th Sep | []() | 
 | 05th Sep | []() | 
