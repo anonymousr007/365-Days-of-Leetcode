@@ -312,7 +312,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 01st Sep | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 02nd Sep | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
 | 03rd Sep | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | `Backtracking` `Breadth-First Search` | 🧡 |
-| 04th Sep | []() | 
+| 04th Sep | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | `Hash Table` `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | ❤️ |
 | 05th Sep | []() | 
 | 06th Sep | []() | 
 | 07th Sep | []() | 
