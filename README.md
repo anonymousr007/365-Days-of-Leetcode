@@ -313,7 +313,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02nd Sep | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
 | 03rd Sep | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | `Backtracking` `Breadth-First Search` | 🧡 |
 | 04th Sep | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | `Hash Table` `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | ❤️ |
-| 05th Sep | []() | 
+| 05th Sep | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | `Tree` `Breadth-First Search` | 🧡 |
 | 06th Sep | []() | 
 | 07th Sep | []() | 
 | 08th Sep | []() | 
