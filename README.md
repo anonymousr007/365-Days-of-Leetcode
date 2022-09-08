@@ -316,7 +316,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 05th Sep | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | `Tree` `Breadth-First Search` | 🧡 |
 | 06th Sep | [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
 | 07th Sep | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | `String` `Tree` `Depth-First Search` `Binary Tree` | 💚 |
-| 08th Sep | []() | 
+| 08th Sep | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | `Stack` `Tree` `Depth-First Search` `Binary Tree` | 💚 |
 | 09th Sep | []() | 
 | 10th Sep | []() | 
 | 11th Sep | []() | 
