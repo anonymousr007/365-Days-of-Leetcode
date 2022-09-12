@@ -320,7 +320,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 09th Sep | [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | `Array` `Stack` `Greedy` `Sorting` `Monotonic Stack` | 🧡 |
 | 10th Sep | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | `Array` `Dynamic Programming` | ❤️ |
 | 11th Sep | [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | `Array` `Greedy` `Sorting` `Heap (Priority Queue)` | ❤️ |
-| 12th Sep | []() | 
+| 12th Sep | [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | `Array` `Two Pointers` `Greedy` `Sorting` | 🧡 |
 | 13th Sep | []() | 
 | 14th Sep | []() | 
 | 15th Sep | []() | 
