@@ -321,10 +321,10 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10th Sep | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | `Array` `Dynamic Programming` | ❤️ |
 | 11th Sep | [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | `Array` `Greedy` `Sorting` `Heap (Priority Queue)` | ❤️ |
 | 12th Sep | [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | `Array` `Two Pointers` `Greedy` `Sorting` | 🧡 |
-| 13th Sep | []() | 
-| 14th Sep | []() | 
-| 15th Sep | []() | 
-| 16th Sep | []() | 
+| 13th Sep | [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | `Array` `Bit Manipulation` | 🧡 |
+| 14th Sep | [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | `Bit Manipulation` `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
+| 15th Sep | [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | `Array` `Hash Table` `Greedy` `Sorting` | 🧡 |
+| 16th Sep | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | `Array` `Dynamic Programming` | 🧡 |
 | 17th Sep | []() | 
 | 18th Sep | []() | 
 | 19th Sep | []() | 
