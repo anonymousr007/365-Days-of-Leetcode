@@ -325,8 +325,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 14th Sep | [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | `Bit Manipulation` `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 15th Sep | [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | `Array` `Hash Table` `Greedy` `Sorting` | 🧡 |
 | 16th Sep | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | `Array` `Dynamic Programming` | 🧡 |
-| 17th Sep | []() | 
-| 18th Sep | []() | 
+| 17th Sep | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | `Array` `Hash Table` `String` `Trie` | ❤️ |
+| 18th Sep | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | `Array` `Two Pointers` `Dynamic Programming` `Stack` `Monotonic Stack` | ❤️ |
 | 19th Sep | []() | 
 | 20th Sep | []() | 
 | 21st Sep | []() | 
