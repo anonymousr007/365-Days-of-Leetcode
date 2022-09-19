@@ -327,7 +327,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 16th Sep | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | `Array` `Dynamic Programming` | 🧡 |
 | 17th Sep | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | `Array` `Hash Table` `String` `Trie` | ❤️ |
 | 18th Sep | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | `Array` `Two Pointers` `Dynamic Programming` `Stack` `Monotonic Stack` | ❤️ |
-| 19th Sep | []() | 
+| 19th Sep | [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | `Array` `Hash Table` `String` | 🧡 |
 | 20th Sep | []() | 
 | 21st Sep | []() | 
 | 22nd Sep | []() | 
