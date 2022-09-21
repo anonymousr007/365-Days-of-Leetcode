@@ -329,7 +329,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 18th Sep | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | `Array` `Two Pointers` `Dynamic Programming` `Stack` `Monotonic Stack` | ❤️ |
 | 19th Sep | [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | `Array` `Hash Table` `String` | 🧡 |
 | 20th Sep | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | `Array` `Binary Search` `Dynamic Programming` `Sliding Window` `Rolling Hash` `Hash Function` | 🧡 |
-| 21st Sep | []() | 
+| 21st Sep | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | `Array` `Simulation` | 🧡 |
 | 22nd Sep | []() | 
 | 23rd Sep | []() | 
 | 24th Sep | []() | 
