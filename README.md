@@ -332,9 +332,9 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 21st Sep | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | `Array` `Simulation` | 🧡 |
 | 22nd Sep | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | `Two Pointers` `String` | 💚 |
 | 23rd Sep | [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | `Math` `Bit Manipulation` `Simulation` | 🧡 |
-| 24th Sep | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | `Array` `Linked List` `Design` `Queue` | 🧡 |
-| 25th Sep | []() | 
-| 26th Sep | []() | 
+| 24th Sep | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | `Backtracking` `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
+| 25th Sep | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | `Array` `Linked List` `Design` `Queue` | 🧡 |
+| 26th Sep | [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | `Array` `String` `Union Find` `Graph` | 🧡 |
 | 27th Sep | []() | 
 | 28th Sep | []() | 
 | 29th Sep | []() | 
