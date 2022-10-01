@@ -342,6 +342,14 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ---
 
+# October
+
+| Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
+| 01st Oct | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | `String` `Dynamic Programming` | 🧡 |
+
+---
+
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
 | ----- | ------------ | ----- | ---- | ------ | ---- |
 | 01.   | January      | 31/31 | 9    | 17     | 5    |
