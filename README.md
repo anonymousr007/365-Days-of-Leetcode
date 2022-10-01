@@ -337,8 +337,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 26th Sep | [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | `Array` `String` `Union Find` `Graph` | 🧡 |
 | 27th Sep | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | `Two Pointers` `String` `Dynamic Programming` | 🧡 |
 | 28th Sep | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | `Linked List` `Two Pointers` | 🧡 |
-| 29th Sep | []() | 
-| 30th Sep | []() | 
+| 29th Sep | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | `Array` `Two Pointers` `Binary Search` `Sorting` `Heap (Priority Queue)` | 🧡 |
+| 30th Sep | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | `Array` `Divide and Conquer` `Binary Indexed Tree` `Segment Tree` `Line Sweep` `Heap (Priority Queue)` `Ordered Set` | ❤️ |
 
 ---
 
