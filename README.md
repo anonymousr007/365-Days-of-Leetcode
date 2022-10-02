@@ -347,6 +347,36 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st Oct | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | `String` `Dynamic Programming` | 🧡 |
+| 02nd Oct | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | `Dynamic Programming` | 🧡 |
+| 03rd Oct | 
+| 04th Oct | 
+| 05th Oct | 
+| 06th Oct | 
+| 07th Oct | 
+| 08th Oct | 
+| 09th Oct | 
+| 10th Oct | 
+| 11th Oct | 
+| 12th Oct | 
+| 13th Oct | 
+| 14th Oct | 
+| 15th Oct | 
+| 16th Oct | 
+| 17th Oct | 
+| 18th Oct | 
+| 19th Oct | 
+| 20th Oct | 
+| 21st Oct | 
+| 22nd Oct | 
+| 23rd Oct | 
+| 24th Oct | 
+| 25th Oct | 
+| 26th Oct | 
+| 27th Oct | 
+| 28th Oct | 
+| 29th Oct | 
+| 30th Oct | 
+| 31st Oct | 
 
 ---
 
