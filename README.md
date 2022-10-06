@@ -349,9 +349,9 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 01st Oct | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | `String` `Dynamic Programming` | 🧡 |
 | 02nd Oct | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | `Dynamic Programming` | 🧡 |
 | 03rd Oct | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | `Array` `String` `Dynamic Programming` `Greedy` | 🧡 |
-| 04th Oct | 
-| 05th Oct | 
-| 06th Oct | 
+| 04th Oct | [112. Path Sum](https://leetcode.com/problems/path-sum/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
+| 05th Oct | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
+| 06th Oct | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | `Hash Table` `String` `Binary Search` `Design` | 🧡 |
 | 07th Oct | 
 | 08th Oct | 
 | 09th Oct | 
