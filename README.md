@@ -352,7 +352,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 04th Oct | [112. Path Sum](https://leetcode.com/problems/path-sum/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
 | 05th Oct | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 06th Oct | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | `Hash Table` `String` `Binary Search` `Design` | 🧡 |
-| 07th Oct | 
+| 07th Oct | [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | `Binary Search` `Design` `Segment Tree` `Ordered Set` | ❤️ |
 | 08th Oct | 
 | 09th Oct | 
 | 10th Oct | 
