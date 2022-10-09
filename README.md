@@ -353,8 +353,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 05th Oct | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 🧡 |
 | 06th Oct | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | `Hash Table` `String` `Binary Search` `Design` | 🧡 |
 | 07th Oct | [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | `Binary Search` `Design` `Segment Tree` `Ordered Set` | ❤️ |
-| 08th Oct | 
-| 09th Oct | 
+| 08th Oct | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | `Array` `Two Pointers` `String` | 🧡 |
+| 09th Oct | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | `Hash Table` `Two Pointers` `Tree` `Depth-First Search` `Breadth-First Search` `Binary Search Tree` `Binary Tree` | 💚 |
 | 10th Oct | 
 | 11th Oct | 
 | 12th Oct | 
