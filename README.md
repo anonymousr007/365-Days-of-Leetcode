@@ -356,7 +356,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 08th Oct | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | `Array` `Two Pointers` `String` | 🧡 |
 | 09th Oct | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | `Hash Table` `Two Pointers` `Tree` `Depth-First Search` `Breadth-First Search` `Binary Search Tree` `Binary Tree` | 💚 |
 | 10th Oct | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | `String` `Greedy` | 🧡 |
-| 11th Oct | 
+| 11th Oct | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | `Array` `Greedy` | 🧡 |
 | 12th Oct | 
 | 13th Oct | 
 | 14th Oct | 
