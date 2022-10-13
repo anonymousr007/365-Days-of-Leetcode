@@ -357,8 +357,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 09th Oct | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | `Hash Table` `Two Pointers` `Tree` `Depth-First Search` `Breadth-First Search` `Binary Search Tree` `Binary Tree` | 💚 |
 | 10th Oct | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | `String` `Greedy` | 🧡 |
 | 11th Oct | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | `Array` `Greedy` | 🧡 |
-| 12th Oct | 
-| 13th Oct | 
+| 12th Oct | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | `Array` `Math` `Greedy` `Sorting` | 💚 |
+| 13th Oct | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | `Linked List` | 🧡 |
 | 14th Oct | 
 | 15th Oct | 
 | 16th Oct | 
