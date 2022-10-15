@@ -360,7 +360,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 12th Oct | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | `Array` `Math` `Greedy` `Sorting` | 💚 |
 | 13th Oct | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | `Linked List` | 🧡 |
 | 14th Oct | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | `Linked List` `Two Pointers` | 🧡 |
-| 15th Oct | 
+| 15th Oct | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | `String` `Dynamic Programming` | ❤️ |
 | 16th Oct | 
 | 17th Oct | 
 | 18th Oct | 
