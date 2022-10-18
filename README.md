@@ -363,7 +363,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 15th Oct | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | `String` `Dynamic Programming` | ❤️ |
 | 16th Oct | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | `Array` `Dynamic Programing` | ❤️ |
 | 17th Oct | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | `Hash Table` `String` | 💚 |
-| 18th Oct | 
+| 18th Oct | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | `String` | 🧡 |
 | 19th Oct | 
 | 20th Oct | 
 | 21st Oct | 
