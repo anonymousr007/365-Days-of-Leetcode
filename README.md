@@ -364,8 +364,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 16th Oct | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | `Array` `Dynamic Programing` | ❤️ |
 | 17th Oct | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | `Hash Table` `String` | 💚 |
 | 18th Oct | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | `String` | 🧡 |
-| 19th Oct | 
-| 20th Oct | 
+| 19th Oct | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | `Hash Table` `String` `Trie` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` | 🧡 |
+| 20th Oct | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | `Hash Table` `Math` `Sorting` | 🧡 |
 | 21st Oct | 
 | 22nd Oct | 
 | 23rd Oct | 
