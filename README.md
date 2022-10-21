@@ -366,7 +366,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 18th Oct | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | `String` | 🧡 |
 | 19th Oct | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | `Hash Table` `String` `Trie` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` | 🧡 |
 | 20th Oct | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | `Hash Table` `Math` `Sorting` | 🧡 |
-| 21st Oct | 
+| 21st Oct | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | `Array` `Hash Table` `Sliding Window` | 💚 |
 | 22nd Oct | 
 | 23rd Oct | 
 | 24th Oct | 
