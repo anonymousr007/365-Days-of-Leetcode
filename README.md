@@ -367,11 +367,11 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 19th Oct | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | `Hash Table` `String` `Trie` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` | 🧡 |
 | 20th Oct | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | `Hash Table` `Math` `Sorting` | 🧡 |
 | 21st Oct | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | `Array` `Hash Table` `Sliding Window` | 💚 |
-| 22nd Oct | 
-| 23rd Oct | 
-| 24th Oct | 
-| 25th Oct | 
-| 26th Oct | 
+| 22nd Oct | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | `Hash Table` `String` `Sliding Window` | ❤️ |
+| 23rd Oct | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | `Array` `Hash Table` `Bit Manipulation` `Sorting` | 💚 |
+| 24th Oct | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | `Array` `String` `Backtracking` `Bit Manipulation` | 🧡 |
+| 25th Oct | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | `Array` `String` | 💚 |
+| 26th Oct | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | `Array` `Hash Table` `Math` `Prefix Sum` | 🧡 |
 | 27th Oct | 
 | 28th Oct | 
 | 29th Oct | 
