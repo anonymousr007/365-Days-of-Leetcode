@@ -372,9 +372,9 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 24th Oct | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | `Array` `String` `Backtracking` `Bit Manipulation` | 🧡 |
 | 25th Oct | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | `Array` `String` | 💚 |
 | 26th Oct | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | `Array` `Hash Table` `Math` `Prefix Sum` | 🧡 |
-| 27th Oct | 
-| 28th Oct | 
-| 29th Oct | 
+| 27th Oct | [835. Image Overlap](https://leetcode.com/problems/image-overlap/) | `Array` `Matrix` | ❤️ |
+| 28th Oct | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `Array` `Hash Table` `String` `Sorting` | 🧡 |
+| 29th Oct | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | `Array` `Greedy` `Sorting` | ❤️ |
 | 30th Oct | 
 | 31st Oct | 
 
