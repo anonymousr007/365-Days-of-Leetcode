@@ -375,7 +375,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 27th Oct | [835. Image Overlap](https://leetcode.com/problems/image-overlap/) | `Array` `Matrix` | ❤️ |
 | 28th Oct | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `Array` `Hash Table` `String` `Sorting` | 🧡 |
 | 29th Oct | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | `Array` `Greedy` `Sorting` | ❤️ |
-| 30th Oct | 
+| 30th Oct | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | `Array` `Breadth-First Search` `Matrix` | ❤️ |
 | 31st Oct | 
 
 ---
