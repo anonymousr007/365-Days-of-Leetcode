@@ -376,7 +376,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 28th Oct | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `Array` `Hash Table` `String` `Sorting` | 🧡 |
 | 29th Oct | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | `Array` `Greedy` `Sorting` | ❤️ |
 | 30th Oct | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | `Array` `Breadth-First Search` `Matrix` | ❤️ |
-| 31st Oct | 
+| 31st Oct | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | `Array` `Matrix` | 💚 |
 
 ---
 
