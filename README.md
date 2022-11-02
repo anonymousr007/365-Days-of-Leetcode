@@ -385,6 +385,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st Nov | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | `Array` `Dynamic Programming` `Depth-First Search` `Matrix` `Simulation` | 🧡 |
+| 02nd Nov | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | `Hash Table` `String` `Breadth-First Search` | 🧡 |
 
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
