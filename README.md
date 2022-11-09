@@ -386,6 +386,204 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st Nov | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | `Array` `Dynamic Programming` `Depth-First Search` `Matrix` `Simulation` | 🧡 |
 | 02nd Nov | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | `Hash Table` `String` `Breadth-First Search` | 🧡 |
+| 03rd Nov | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | `Array` `Hash Table` `String` `Greedy` `Counting` | 🧡 |
+| 04th Nov | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | `Two Pointers` `String` | 💚 |
+| 05th Nov | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | `Array` `String` `Backtracking` `Trie` `Matrix` | ❤️ |
+| 06th Nov | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/) | `Math` `String` `Sorting` | ❤️ |
+| 07th Nov | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | `Math` `Greedy` | 💚 |
+| 08th Nov | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | `String` `Stack` | 💚 |
+| 09th Nov | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | `Stack` `Design` `Monotonic Stack` `Data Stream` | 🧡 |
+| 10th Nov | [
+| 11th Nov | [
+| 12th Nov | [
+| 13th Nov | [
+| 14th Nov | [
+| 15th Nov | [
+| 16th 
+| 17th
+| 18th
+| 19th
+| 20th
+| 21st
+| 22nd
+| 23rd
+| 24th
+| 25th
+| 26th
+| 27th
+| 28th
+| 29th
+| 30th
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
