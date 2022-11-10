@@ -393,7 +393,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 07th Nov | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | `Math` `Greedy` | 💚 |
 | 08th Nov | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | `String` `Stack` | 💚 |
 | 09th Nov | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | `Stack` `Design` `Monotonic Stack` `Data Stream` | 🧡 |
-| 10th Nov | [
+| 10th Nov | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | `String` `Stack` | 💚 |
 | 11th Nov | [
 | 12th Nov | [
 | 13th Nov | [
