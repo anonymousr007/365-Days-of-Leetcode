@@ -394,8 +394,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 08th Nov | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | `String` `Stack` | 💚 |
 | 09th Nov | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | `Stack` `Design` `Monotonic Stack` `Data Stream` | 🧡 |
 | 10th Nov | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | `String` `Stack` | 💚 |
-| 11th Nov | [
-| 12th Nov | [
+| 11th Nov | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Array` `Two Pointers` | 💚 |
+| 12th Nov | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | `Two Pointers` `Design` `Sorting` `Heap (Priority Queue)` `Data Stream` | ❤️ |
 | 13th Nov | [
 | 14th Nov | [
 | 15th Nov | [
