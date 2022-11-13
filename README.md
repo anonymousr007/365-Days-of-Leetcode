@@ -396,7 +396,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10th Nov | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | `String` `Stack` | 💚 |
 | 11th Nov | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Array` `Two Pointers` | 💚 |
 | 12th Nov | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | `Two Pointers` `Design` `Sorting` `Heap (Priority Queue)` `Data Stream` | ❤️ |
-| 13th Nov | [
+| 13th Nov | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | `Two Pointers` `String` | 🧡 |
 | 14th Nov | [
 | 15th Nov | [
 | 16th 
