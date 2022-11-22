@@ -397,23 +397,25 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 11th Nov | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Array` `Two Pointers` | 💚 |
 | 12th Nov | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | `Two Pointers` `Design` `Sorting` `Heap (Priority Queue)` `Data Stream` | ❤️ |
 | 13th Nov | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | `Two Pointers` `String` | 🧡 |
-| 14th Nov | [
-| 15th Nov | [
-| 16th 
-| 17th
-| 18th
-| 19th
-| 20th
-| 21st
-| 22nd
-| 23rd
-| 24th
-| 25th
-| 26th
-| 27th
-| 28th
-| 29th
-| 30th
+| 14th Nov | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | `Depth-First Search` `Union Find` `Graph` | 🧡 |
+| 15th Nov | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | `Binary Search` `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
+| 16th Nov | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | `Binary Search` `Interactive` | 💚 |
+| 17th Nov | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) | `Math` `Geometry` | 🧡 |
+| 18th Nov | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | `Math` | 💚 |
+| 19th Nov | [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | `Array` `Math` `Geometry` | ❤️ |
+| 20th Nov | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | `Math` `String` `Stack` `Recursion` | ❤️ |
+| 21st Nov | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | `Array` `Breadth-First Search` `Matrix` | 🧡 |
+| 22nd Nov | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | `Math` `Dynamic Programming` `Breadth-First Search` |  🧡 |
+| 23rd Nov | []() | 
+| 24th Nov | []() | 
+| 25th Nov | []() | 
+| 26th Nov | []() | 
+| 27th Nov | []() | 
+| 28th Nov | []() | 
+| 29th Nov | []() | 
+| 30th Nov | []() | 
+
+--- 
 |
 |
 |
