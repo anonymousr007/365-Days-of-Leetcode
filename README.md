@@ -405,11 +405,11 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 19th Nov | [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | `Array` `Math` `Geometry` | ❤️ |
 | 20th Nov | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | `Math` `String` `Stack` `Recursion` | ❤️ |
 | 21st Nov | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | `Array` `Breadth-First Search` `Matrix` | 🧡 |
-| 22nd Nov | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | `Math` `Dynamic Programming` `Breadth-First Search` |  🧡 |
-| 23rd Nov | []() | 
-| 24th Nov | []() | 
-| 25th Nov | []() | 
-| 26th Nov | []() | 
+| 22nd Nov | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | `Math` `Dynamic Programming` `Breadth-First Search` | 🧡 |
+| 23rd Nov | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | `Array` `Hash Table` `Matrix` | 🧡 |
+| 24th Nov | [79. Word Search](https://leetcode.com/problems/word-search/) | `Array` `Backtracking` `Matrix` | 🧡 |
+| 25th Nov | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | `Array` `Dynamic Programming` `Stack` `Monotonic Stack` | 🧡 |
+| 26th Nov | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | `Array` `Binary Search` `Dynamic Programming` `Sorting` | ❤️ |
 | 27th Nov | []() | 
 | 28th Nov | []() | 
 | 29th Nov | []() | 
