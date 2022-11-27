@@ -410,7 +410,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 24th Nov | [79. Word Search](https://leetcode.com/problems/word-search/) | `Array` `Backtracking` `Matrix` | 🧡 |
 | 25th Nov | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | `Array` `Dynamic Programming` `Stack` `Monotonic Stack` | 🧡 |
 | 26th Nov | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | `Array` `Binary Search` `Dynamic Programming` `Sorting` | ❤️ |
-| 27th Nov | []() | 
+| 27th Nov | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | `Array` `Dynamic Programming` | ❤️ |
 | 28th Nov | []() | 
 | 29th Nov | []() | 
 | 30th Nov | []() | 
