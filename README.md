@@ -411,9 +411,9 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 25th Nov | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | `Array` `Dynamic Programming` `Stack` `Monotonic Stack` | 🧡 |
 | 26th Nov | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | `Array` `Binary Search` `Dynamic Programming` `Sorting` | ❤️ |
 | 27th Nov | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | `Array` `Dynamic Programming` | ❤️ |
-| 28th Nov | []() | 
-| 29th Nov | []() | 
-| 30th Nov | []() | 
+| 28th Nov | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | `Array` `Hash Table` `Sorting` `Counting` | 🧡 |
+| 29th Nov | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | `Array` `Hash Table` `Math` `Design` `Randomized` | 🧡 |
+| 30th Nov | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | `Array` `Hash Table` | 💚 |
 
 --- 
 |
