@@ -416,7 +416,12 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 30th Nov | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | `Array` `Hash Table` | 💚 |
 
 --- 
-|
+
+# December
+
+| Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
+| 01st Dec | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | `String` `Counting` | 💚 |
 |
 |
 |
