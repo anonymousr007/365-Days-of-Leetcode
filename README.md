@@ -422,7 +422,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st Dec | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | `String` `Counting` | 💚 |
-|
+| 02nd Dec | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | `Hash Table` `String` `Sorting` | 🧡 |
 |
 |
 |
