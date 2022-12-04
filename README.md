@@ -423,8 +423,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st Dec | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | `String` `Counting` | 💚 |
 | 02nd Dec | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | `Hash Table` `String` `Sorting` | 🧡 |
-|
-|
+| 03rd Dec | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | `Hash Table` `String` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` | 🧡 |
+| 04th Dec | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | `Array` `Prefix Sum` | 🧡 | 
 |
 |
 |
