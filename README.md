@@ -424,174 +424,74 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 01st Dec | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | `String` `Counting` | 💚 |
 | 02nd Dec | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | `Hash Table` `String` `Sorting` | 🧡 |
 | 03rd Dec | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | `Hash Table` `String` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` | 🧡 |
-| 04th Dec | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | `Array` `Prefix Sum` | 🧡 | 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+| 04th Dec | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | `Array` `Prefix Sum` | 🧡 |
+| 05th Dec | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `Linked List` `Two Pointers` | 💚 |
+| 06th Dec | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | `Linked List` | 🧡 |
+| 07th Dec | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree` | 💚 |
+| 08th Dec | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | `Tree` `Depth-First Search` `Binary Tree` | 💚 |
+| 09th Dec | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
+| 10th Dec | []()
+| 11th Dec | []()
+| 12th Dec | []()
+| 13th Dec | []()
+| 14th Dec | []()
+| 15th Dec | []()
+| 16th Dec | []()
+| 17th Dec | []()
+| 18th Dec | []()
+| 19th Dec | []()
+| 20th Dec | []()
+| 21st Dec | []()
+| 22nd Dec | []()
+| 23rd Dec | []()
+| 24th Dec | []()
+| 25th Dec | []()
+| 26th Dec | []()
+| 27th Dec | []()
+| 28th Dec | []()
+| 29th Dec | []()
+| 30th Dec | []()
+| 31st Dec | []()
 
+--- 
+
+# January
+
+| Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
+| 01st Dec | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | `String` `Counting` | 💚 |
+| 02nd Dec | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | `Hash Table` `String` `Sorting` | 🧡 |
+| 03rd Dec | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | `Hash Table` `String` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` | 🧡 |
+| 04th Dec | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | `Array` `Prefix Sum` | 🧡 | 
+| 05th Dec | 
+| 06
+| 07
+| 08
+| 09
+| 10
+| 11
+| 12
+| 13
+| 14
+| 15
+| 16
+| 17
+| 18
+| 19
+| 20
+| 21
+| 22
+| 23
+| 24
+| 25
+| 26
+| 27
+| 28
+| 29
+| 30
+| 31
+
+---
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
 | ----- | ------------ | ----- | ---- | ------ | ---- |
@@ -605,9 +505,9 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 08.   | August       | 31/31 | 7    | 15     | 9    |
 | 09.   | September    | 30/30 | 4    | 20     | 6    |
 | 10.   | October      | 31/31 | 8    | 16     | 7    |
-| 11.   | November     | 00/30 |
+| 11.   | November     | 30/30 | 8    | 15     | 7    |
 | 12.   | December     | 00/31 |
-|       | Total        | 304/365 | 69   | 186    | 49   |
+|       | Total      | 334/365 | 77   | 201    | 56   |
 
 ```
 
