@@ -430,8 +430,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 07th Dec | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree` | 💚 |
 | 08th Dec | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | `Tree` `Depth-First Search` `Binary Tree` | 💚 |
 | 09th Dec | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
-| 10th Dec | []()
-| 11th Dec | []()
+| 10th Dec | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
+| 11th Dec | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | `Dynamic Programming` `Tree` `Depth-First Search` `Binary Tree` | ❤️ |
 | 12th Dec | []()
 | 13th Dec | []()
 | 14th Dec | []()
@@ -459,11 +459,11 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 | Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
-| 01st Dec | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | `String` `Counting` | 💚 |
-| 02nd Dec | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | `Hash Table` `String` `Sorting` | 🧡 |
-| 03rd Dec | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | `Hash Table` `String` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting` | 🧡 |
-| 04th Dec | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | `Array` `Prefix Sum` | 🧡 | 
-| 05th Dec | 
+| 01st Jan | 
+| 02nd Jan | 
+| 03rd Jan | 
+| 04th Jan |  
+| 05th Jan | 
 | 06
 | 07
 | 08
