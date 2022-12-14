@@ -432,9 +432,9 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 09th Dec | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
 | 10th Dec | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | `Tree` `Depth-First Search` `Binary Tree` | 🧡 |
 | 11th Dec | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | `Dynamic Programming` `Tree` `Depth-First Search` `Binary Tree` | ❤️ |
-| 12th Dec | []()
-| 13th Dec | []()
-| 14th Dec | []()
+| 12th Dec | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Math` `Dynamic Programming` `Memoization` | 💚 |
+| 13th Dec | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | `Array` `Dynamic Programming` `Matrix` | 🧡 |
+| 14th Dec | [198. House Robber](https://leetcode.com/problems/house-robber/) | `Array` `Dynamic Programming` | 🧡 |
 | 15th Dec | []()
 | 16th Dec | []()
 | 17th Dec | []()
