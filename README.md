@@ -435,12 +435,12 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 12th Dec | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Math` `Dynamic Programming` `Memoization` | 💚 |
 | 13th Dec | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | `Array` `Dynamic Programming` `Matrix` | 🧡 |
 | 14th Dec | [198. House Robber](https://leetcode.com/problems/house-robber/) | `Array` `Dynamic Programming` | 🧡 |
-| 15th Dec | []()
-| 16th Dec | []()
-| 17th Dec | []()
-| 18th Dec | []()
-| 19th Dec | []()
-| 20th Dec | []()
+| 15th Dec | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | `String` `Dynamic Programming` | 🧡 |
+| 16th Dec | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `Stack` `Design` `Queue` | 💚 |
+| 17th Dec | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | `Array` `Math` `Stack` | 🧡 |
+| 18th Dec | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | `Array` `Stack` `Monotonic Stack` | 🧡 |
+| 19th Dec | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` | 💚 |
+| 20th Dec | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | `Depth-First Search` `Breadth-First Search` `Graph` | 🧡 |
 | 21st Dec | []()
 | 22nd Dec | []()
 | 23rd Dec | []()
