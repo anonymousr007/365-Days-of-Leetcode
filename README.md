@@ -441,9 +441,9 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 18th Dec | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | `Array` `Stack` `Monotonic Stack` | 🧡 |
 | 19th Dec | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` | 💚 |
 | 20th Dec | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | `Depth-First Search` `Breadth-First Search` `Graph` | 🧡 |
-| 21st Dec | []()
-| 22nd Dec | []()
-| 23rd Dec | []()
+| 21st Dec | [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` | 🧡 |
+| 22nd Dec | [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | `Dynamic Programming` `Tree` `Depth-First Search` `Graph` | ❤️ |
+| 23rd Dec | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | `Array` `Dynamic Programming` | 🧡 |
 | 24th Dec | []()
 | 25th Dec | []()
 | 26th Dec | []()
