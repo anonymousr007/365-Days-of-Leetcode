@@ -444,8 +444,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 21st Dec | [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | `Depth-First Search` `Breadth-First Search` `Union Find` `Graph` | 🧡 |
 | 22nd Dec | [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | `Dynamic Programming` `Tree` `Depth-First Search` `Graph` | ❤️ |
 | 23rd Dec | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | `Array` `Dynamic Programming` | 🧡 |
-| 24th Dec | []()
-| 25th Dec | []()
+| 24th Dec | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | `Dynamic Programming` | 🧡 |
+| 25th Dec | [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | `Array` `Binary Search` `Greedy` `Sorting` `Prefix Sum` | 💚 |
 | 26th Dec | []()
 | 27th Dec | []()
 | 28th Dec | []()
