@@ -446,11 +446,11 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 23rd Dec | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | `Array` `Dynamic Programming` | 🧡 |
 | 24th Dec | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | `Dynamic Programming` | 🧡 |
 | 25th Dec | [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | `Array` `Binary Search` `Greedy` `Sorting` `Prefix Sum` | 💚 |
-| 26th Dec | []()
-| 27th Dec | []()
-| 28th Dec | []()
-| 29th Dec | []()
-| 30th Dec | []()
+| 26th Dec | [55. Jump Game](https://leetcode.com/problems/jump-game/) | `Array` `Dynamic Programming` `Greedy` | 🧡 |
+| 27th Dec | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | `Array` `Greedy` `Sorting` | 🧡 |
+| 28th Dec | [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | `Array` `Heap (Priority Queue)` | 🧡 |
+| 29th Dec | [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | `Array` `Sorting` `Heap (Priority Queue)` | 🧡 |
+| 30th Dec | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | `Backtracking` `Depth-First Search` `Breadth-First Search` `Graph` | 🧡 |
 | 31st Dec | []()
 
 --- 
