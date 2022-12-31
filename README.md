@@ -451,7 +451,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 28th Dec | [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | `Array` `Heap (Priority Queue)` | 🧡 |
 | 29th Dec | [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | `Array` `Sorting` `Heap (Priority Queue)` | 🧡 |
 | 30th Dec | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | `Backtracking` `Depth-First Search` `Breadth-First Search` `Graph` | 🧡 |
-| 31st Dec | []()
+| 31st Dec | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | `Array` `Backtracking` `Bit Manipulation` `Matrix` | ❤️ 
+
 
 --- 
 
@@ -506,8 +507,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 09.   | September    | 30/30 | 4    | 20     | 6    |
 | 10.   | October      | 31/31 | 8    | 16     | 7    |
 | 11.   | November     | 30/30 | 8    | 15     | 7    |
-| 12.   | December     | 00/31 |
-|       | Total      | 334/365 | 77   | 201    | 56   |
+| 12.   | December     | 31/31 | 8    | 20     | 3    |
+|       | Total      | 365/365 | 85   | 221    | 59   |
 
 ```
 
