@@ -456,12 +456,12 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 --- 
 
-# January
+# January 2023
 
 | Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
-| 01st Jan | 
-| 02nd Jan | 
+| 01st Jan | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | `Hash Table` `String` | 💚 |
+| 02nd Jan | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | `String` | 💚 |
 | 03rd Jan | 
 | 04th Jan |  
 | 05th Jan | 
