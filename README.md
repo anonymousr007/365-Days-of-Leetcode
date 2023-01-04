@@ -462,8 +462,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st Jan | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | `Hash Table` `String` | 💚 |
 | 02nd Jan | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | `String` | 💚 |
-| 03rd Jan | 
-| 04th Jan |  
+| 03rd Jan | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | `Array` `String` | 💚 |
+| 04th Jan | [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | `Array` `Hash Table` `Greedy` `Counting` | 🧡 |
 | 05th Jan | 
 | 06
 | 07
