@@ -464,9 +464,9 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02nd Jan | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | `String` | 💚 |
 | 03rd Jan | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | `Array` `String` | 💚 |
 | 04th Jan | [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | `Array` `Hash Table` `Greedy` `Counting` | 🧡 |
-| 05th Jan | 
-| 06
-| 07
+| 05th Jan | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | `Array` `Greedy` `Sorting` | 🧡 |
+| 06th Jan | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | `Array` `Greedy` `Sorting` | 🧡 |
+| 07th Jan | [134. Gas Station](https://leetcode.com/problems/gas-station/) | `Array` `Greedy` | 🧡 |
 | 08
 | 09
 | 10
