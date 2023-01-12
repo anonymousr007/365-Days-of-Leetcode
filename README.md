@@ -451,8 +451,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 28th Dec | [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | `Array` `Heap (Priority Queue)` | 🧡 |
 | 29th Dec | [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | `Array` `Sorting` `Heap (Priority Queue)` | 🧡 |
 | 30th Dec | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | `Backtracking` `Depth-First Search` `Breadth-First Search` `Graph` | 🧡 |
-| 31st Dec | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | `Array` `Backtracking` `Bit Manipulation` `Matrix` | ❤️ 
-
+| 31st Dec | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | `Array` `Backtracking` `Bit Manipulation` `Matrix` | ❤️ |
 
 --- 
 
@@ -467,30 +466,30 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 05th Jan | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | `Array` `Greedy` `Sorting` | 🧡 |
 | 06th Jan | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | `Array` `Greedy` `Sorting` | 🧡 |
 | 07th Jan | [134. Gas Station](https://leetcode.com/problems/gas-station/) | `Array` `Greedy` | 🧡 |
-| 08
-| 09
-| 10
-| 11
-| 12
-| 13
-| 14
-| 15
-| 16
-| 17
-| 18
-| 19
-| 20
-| 21
-| 22
-| 23
-| 24
-| 25
-| 26
-| 27
-| 28
-| 29
-| 30
-| 31
+| 08th Jan | [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | `Array` `Hash Table` `Math` `Geometry` | ❤️ |
+| 09th Jan | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | `Stack` `Tree` `Depth-First Search` `Binary Tree` | 💚 |
+| 10th Jan | [100. Same Tree](https://leetcode.com/problems/same-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
+| 11th Jan | [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | `Hash Table` `Tree` `Depth-First Search` `Breadth-First Search` | 🧡 |
+| 12th Jan | [1519. Number of Nodes in the Sub-Tree With the Same Label]() | `Hash Table` `Tree` `Depth-First Search` `Breadth-First Search` `Counting` | 🧡 |
+| 13th Jan | 
+| 14th Jan | 
+| 15th Jan | 
+| 16th Jan | 
+| 17th Jan | 
+| 18th Jan | 
+| 19th Jan | 
+| 20th Jan | 
+| 21st Jan | 
+| 22nd Jan | 
+| 23rd Jan | 
+| 24th Jan | 
+| 25th Jan | 
+| 26th Jan | 
+| 27th Jan | 
+| 28th Jan | 
+| 29th Jan | 
+| 30th Jan | 
+| 31st Jan | 
 
 ---
 
