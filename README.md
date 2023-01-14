@@ -471,8 +471,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10th Jan | [100. Same Tree](https://leetcode.com/problems/same-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
 | 11th Jan | [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | `Hash Table` `Tree` `Depth-First Search` `Breadth-First Search` | 🧡 |
 | 12th Jan | [1519. Number of Nodes in the Sub-Tree With the Same Label]() | `Hash Table` `Tree` `Depth-First Search` `Breadth-First Search` `Counting` | 🧡 |
-| 13th Jan | 
-| 14th Jan | 
+| 13th Jan | [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | `Array` `String` `Tree` `Depth-First Search` `Graph` `Topological Sort` | ❤️ |
+| 14th Jan | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | `String` `Union Find` | 🧡 |
 | 15th Jan | 
 | 16th Jan | 
 | 17th Jan | 
