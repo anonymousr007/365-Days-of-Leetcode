@@ -474,10 +474,10 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 13th Jan | [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | `Array` `String` `Tree` `Depth-First Search` `Graph` `Topological Sort` | ❤️ |
 | 14th Jan | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | `String` `Union Find` | 🧡 |
 | 15th Jan | [2421. Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) | `Array` `Tree` `Union Find` `Graph` | ❤️ |
-| 16th Jan | 
-| 17th Jan | 
-| 18th Jan | 
-| 19th Jan | 
+| 16th Jan | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | `Array` | 🧡 |
+| 17th Jan | [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | `String` `Dynamic Programming` | 🧡 |
+| 18th Jan | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | `Array` `Divide and Conquer` `Dynamic Programming` `Queue` `Monotonic Queue` | 🧡 |
+| 19th Jan | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | `Array` `Hash Table` `Prefix Sum` | 🧡 |
 | 20th Jan | 
 | 21st Jan | 
 | 22nd Jan | 
