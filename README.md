@@ -478,8 +478,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 17th Jan | [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | `String` `Dynamic Programming` | 🧡 |
 | 18th Jan | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | `Array` `Divide and Conquer` `Dynamic Programming` `Queue` `Monotonic Queue` | 🧡 |
 | 19th Jan | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | `Array` `Hash Table` `Prefix Sum` | 🧡 |
-| 20th Jan | 
-| 21st Jan | 
+| 20th Jan | [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | `Array` `Hash Table` `Backtracking` `Bit Manipulation` | 🧡 |
+| 21st Jan | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | `String` `Backtracking` | 🧡 |
 | 22nd Jan | 
 | 23rd Jan | 
 | 24th Jan | 
