@@ -480,12 +480,12 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 19th Jan | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | `Array` `Hash Table` `Prefix Sum` | 🧡 |
 | 20th Jan | [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | `Array` `Hash Table` `Backtracking` `Bit Manipulation` | 🧡 |
 | 21st Jan | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | `String` `Backtracking` | 🧡 |
-| 22nd Jan | 
-| 23rd Jan | 
-| 24th Jan | 
-| 25th Jan | 
-| 26th Jan | 
-| 27th Jan | 
+| 22nd Jan | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | `String` `Dynamic Programming` `Backtracking` | 🧡 |
+| 23rd Jan | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | `Array` `Hash Table` `Graph` | 💚 |
+| 24th Jan | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | `Array` `Breadth-First Search` `Matrix` | 🧡 |
+| 25th Jan | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | `Depth-First Search` `Graph` | 🧡 |
+| 26th Jan | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | `Dynamic Programming` `Depth-First Search` `Braedth-First Search` `Graph` `Heap (Priority Queue)` `Shortest Path` | 🧡 |
+| 27th Jan | [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | `Array` `String` `Dynamic Programming` `Depth-First Search` `Trie` | ❤️ |
 | 28th Jan | 
 | 29th Jan | 
 | 30th Jan | 
