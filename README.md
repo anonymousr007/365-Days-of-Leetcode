@@ -486,8 +486,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 25th Jan | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | `Depth-First Search` `Graph` | 🧡 |
 | 26th Jan | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | `Dynamic Programming` `Depth-First Search` `Braedth-First Search` `Graph` `Heap (Priority Queue)` `Shortest Path` | 🧡 |
 | 27th Jan | [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | `Array` `String` `Dynamic Programming` `Depth-First Search` `Trie` | ❤️ |
-| 28th Jan | 
-| 29th Jan | 
+| 28th Jan | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | `Binary Search` `Design` `Ordered Set` | ❤️ |
+| 29th Jan | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | `Hash Table` `Linked List` `Design` `Doubly-linked List` | ❤️ 
 | 30th Jan | 
 | 31st Jan | 
 
