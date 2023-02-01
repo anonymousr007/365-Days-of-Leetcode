@@ -488,8 +488,16 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 27th Jan | [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | `Array` `String` `Dynamic Programming` `Depth-First Search` `Trie` | ❤️ |
 | 28th Jan | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | `Binary Search` `Design` `Ordered Set` | ❤️ |
 | 29th Jan | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | `Hash Table` `Linked List` `Design` `Doubly-linked List` | ❤️ 
-| 30th Jan | 
-| 31st Jan | 
+| 30th Jan | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | `Math` `Dynamic Programming` `Memoization` | 💚 |
+| 31st Jan | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | `Array` `Dynamic Programming` `Sorting` | 🧡 |
+
+--- 
+
+# February 2023
+
+| Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
+| 01st Feb | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | `Math` `String` | 💚 |
 
 ---
 
