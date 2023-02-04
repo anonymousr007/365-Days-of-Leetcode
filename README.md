@@ -498,6 +498,33 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st Feb | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | `Math` `String` | 💚 |
+| 02nd Feb | [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | `Array` `Hash Table` `String` | 💚 |
+| 03rd Feb | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | `String` | 🧡 |
+| 04th Feb | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Hash Table` `Two Pointers` `String` `Sliding Window` | 🧡 |
+| 05th Feb | []()
+| 06th Feb | []()
+| 07th Feb | []()
+| 08th Feb | []()
+| 09th Feb | []()
+| 10th Feb | []()
+| 11th Feb | []()
+| 12th Feb | []()
+| 13th Feb | []()
+| 14th Feb | []()
+| 15th Feb | []()
+| 16th Feb | []()
+| 17th Feb | []()
+| 18th Feb | []()
+| 19th Feb | []()
+| 20th Feb | []()
+| 21st Feb | []()
+| 22nd Feb | []()
+| 23rd Feb | []()
+| 24th Feb | []()
+| 25th Feb | []()
+| 26th Feb | []()
+| 27th Feb | []()
+| 28th Feb | []()
 
 ---
 
