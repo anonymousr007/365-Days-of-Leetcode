@@ -501,10 +501,10 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 02nd Feb | [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | `Array` `Hash Table` `String` | 💚 |
 | 03rd Feb | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | `String` | 🧡 |
 | 04th Feb | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | `Hash Table` `Two Pointers` `String` `Sliding Window` | 🧡 |
-| 05th Feb | []()
-| 06th Feb | []()
-| 07th Feb | []()
-| 08th Feb | []()
+| 05th Feb | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | `Hash Table` `String` `Sliding Window` | 🧡 |
+| 06th Feb | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | `Array` | 💚 |
+| 07th Feb | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | `Array` `Hash Table` `Sliding Window` | 🧡 |
+| 08th Feb | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | `Array` `Dynamic Programming` `Greedy` | 🧡 |
 | 09th Feb | []()
 | 10th Feb | []()
 | 11th Feb | []()
