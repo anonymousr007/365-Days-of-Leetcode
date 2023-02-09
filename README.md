@@ -487,7 +487,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 26th Jan | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | `Dynamic Programming` `Depth-First Search` `Braedth-First Search` `Graph` `Heap (Priority Queue)` `Shortest Path` | 🧡 |
 | 27th Jan | [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | `Array` `String` `Dynamic Programming` `Depth-First Search` `Trie` | ❤️ |
 | 28th Jan | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | `Binary Search` `Design` `Ordered Set` | ❤️ |
-| 29th Jan | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | `Hash Table` `Linked List` `Design` `Doubly-linked List` | ❤️ 
+| 29th Jan | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | `Hash Table` `Linked List` `Design` `Doubly-linked List` | ❤️ |
 | 30th Jan | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | `Math` `Dynamic Programming` `Memoization` | 💚 |
 | 31st Jan | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | `Array` `Dynamic Programming` `Sorting` | 🧡 |
 
@@ -505,7 +505,7 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 06th Feb | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | `Array` | 💚 |
 | 07th Feb | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | `Array` `Hash Table` `Sliding Window` | 🧡 |
 | 08th Feb | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | `Array` `Dynamic Programming` `Greedy` | 🧡 |
-| 09th Feb | []()
+| 09th Feb | [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/) | `Array` `Hash Table` `String` `Bit Manipulation` `Enumeration` | ❤️ |
 | 10th Feb | []()
 | 11th Feb | []()
 | 12th Feb | []()
