@@ -506,20 +506,20 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 07th Feb | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | `Array` `Hash Table` `Sliding Window` | 🧡 |
 | 08th Feb | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | `Array` `Dynamic Programming` `Greedy` | 🧡 |
 | 09th Feb | [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/) | `Array` `Hash Table` `String` `Bit Manipulation` `Enumeration` | ❤️ |
-| 10th Feb | []()
-| 11th Feb | []()
-| 12th Feb | []()
-| 13th Feb | []()
-| 14th Feb | []()
-| 15th Feb | []()
-| 16th Feb | []()
-| 17th Feb | []()
-| 18th Feb | []()
-| 19th Feb | []()
-| 20th Feb | []()
-| 21st Feb | []()
-| 22nd Feb | []()
-| 23rd Feb | []()
+| 10th Feb | [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | `Array` `Dynamic Programming` `Breadth-First Search` `Matrix` | 🧡 |
+| 11th Feb | [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | `Breadth-First Search` `Graph` | 🧡 |
+| 12th Feb | [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | `Tree` `Depth-First Search` `Breadth-First Search` `Graph` | 🧡 |
+| 13th Feb | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | `Math` | 💚 |
+| 14th Feb | [67. Add Binary](https://leetcode.com/problems/add-binary/) | `Math` `String` `Bit Manipulation` `Simulation` | 💚 |
+| 15th Feb | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | `Array` `Math` | 💚 |
+| 16th Feb | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
+| 17th Feb | [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Search Tree` `Binary Tree` | 💚 |
+| 18th Feb | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` | 💚 |
+| 19th Feb | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | `Tree` `Breadth-First Search` `Binary Tree` | 🧡 |
+| 20th Feb | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Array` `Binary Search` | 💚 |
+| 21st Feb | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | `Array` `Binary Search` | 🧡 |
+| 22nd Feb | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | `Array` `Binary Search` | 🧡 |
+| 23rd Feb | [502. IPO](https://leetcode.com/problems/ipo/) | `Array` `Greedy` `Sorting` `Heap (Priority Queue)` | ❤️ |
 | 24th Feb | []()
 | 25th Feb | []()
 | 26th Feb | []()
