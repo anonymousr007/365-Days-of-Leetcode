@@ -520,9 +520,9 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 21st Feb | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | `Array` `Binary Search` | 🧡 |
 | 22nd Feb | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | `Array` `Binary Search` | 🧡 |
 | 23rd Feb | [502. IPO](https://leetcode.com/problems/ipo/) | `Array` `Greedy` `Sorting` `Heap (Priority Queue)` | ❤️ |
-| 24th Feb | []()
-| 25th Feb | []()
-| 26th Feb | []()
+| 24th Feb | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | `Array` `Greedy` `Heap (Priority Queue)` `Ordered Set` | ❤️ |
+| 25th Feb | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Array` `Dynamic Programming` | 💚 |
+| 26th Feb | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | `String` `Dynamic Programming` | ❤️ |
 | 27th Feb | []()
 | 28th Feb | []()
 
