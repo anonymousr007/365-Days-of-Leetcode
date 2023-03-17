@@ -523,8 +523,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 24th Feb | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | `Array` `Greedy` `Heap (Priority Queue)` `Ordered Set` | ❤️ |
 | 25th Feb | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Array` `Dynamic Programming` | 💚 |
 | 26th Feb | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | `String` `Dynamic Programming` | ❤️ |
-| 27th Feb | []()
-| 28th Feb | []()
+| 27th Feb | [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | `Array` `Divide and Conquer` `Tree` `Matrix` | ❤️ |
+| 28th Feb | [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | `Hash Table` `Tree` `Depth-First Search` `Binary Tree` | ❤️ |
 
 ---
 
