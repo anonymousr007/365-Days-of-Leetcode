@@ -528,6 +528,43 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ---
 
+# March 2023
+
+| Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
+| 01st Mar | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | `Array` `Divide and Conquer` `Sorting` `Heap (Priority Queue)` `Merge Sort` `Bucket Sort` `Radix Sort` `Counting Sort` | 🧡 |
+| 02nd Mar | [443. String Compression](https://leetcode.com/problems/string-compression/) | `Two Pointers` `String` | 🧡 |
+| 03rd Mar | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | `Two Pointers` `String` `String Matching` | 💚 |
+| 04th Mar | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | `Array` `Queue` `Sliding Window` `Monotonic Queue` | ❤️ |
+| 05th Mar | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | `Array` `Hash Table` `Breadth-First Search` | ❤️ |
+| 06th Mar | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | `Array` `Binary Search` | 💚 |
+| 07th Mar | [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | `Array` `Binary Search` | 🧡 |
+| 08th Mar | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Array` `Binary Search` | 🧡 |
+| 09th Mar | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | `Hash Table` `Linked List` `Two Pointers` | 🧡 |
+| 10th Mar | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | `Linked List` `Math` `Reservoir Sampling` `Randomized` | 🧡 |
+| 11th Mar | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | `Linked List` `Divide and Conquer` `Tree` `Binary Tree` `Binary Search Tree` | 🧡 |
+| 12th Mar | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | `Linked List` `Divide and Conquer` `Heap(Priority Queue)` `Merge Sort` | ❤️ |
+| 13th Mar | []() | 
+| 14th Mar | []() | 
+| 15th Mar | []() | 
+| 16th Mar | []() | 
+| 17th Mar | []() | 
+| 18th Mar | []() | 
+| 19th Mar | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | `String` `Depth-Breadth Search` `Design` `Trie` | 🧡 |
+| 20th Mar | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | `Array` `Greedy` | 💚 |
+| 21st Mar | []() | 
+| 22nd Mar | []() | 
+| 23rd Mar | []() | 
+| 24th Mar | []() | 
+| 25th Mar | []() | 
+| 26th Mar | []() | 
+| 27th Mar | []() | 
+| 28th Mar | []() | 
+| 29th Mar | []() | 
+| 30th Mar | []() | 
+| 31st Mar | []() | 
+---
+
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
 | ----- | ------------ | ----- | ---- | ------ | ---- |
 | 01.   | January      | 31/31 | 9    | 17     | 5    |
