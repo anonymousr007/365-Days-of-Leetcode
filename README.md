@@ -544,25 +544,26 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | 10th Mar | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | `Linked List` `Math` `Reservoir Sampling` `Randomized` | 🧡 |
 | 11th Mar | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | `Linked List` `Divide and Conquer` `Tree` `Binary Tree` `Binary Search Tree` | 🧡 |
 | 12th Mar | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | `Linked List` `Divide and Conquer` `Heap(Priority Queue)` `Merge Sort` | ❤️ |
-| 13th Mar | []() | 
-| 14th Mar | []() | 
-| 15th Mar | []() | 
-| 16th Mar | []() | 
-| 17th Mar | []() | 
-| 18th Mar | []() | 
+| 13th Mar | [101]() | 
+| 14th Mar | [129]() | 
+| 15th Mar | [958]() | 
+| 16th Mar | [106]() | 
+| 17th Mar | [208]() | 
+| 18th Mar | [1472]() | 
 | 19th Mar | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | `String` `Depth-Breadth Search` `Design` `Trie` | 🧡 |
 | 20th Mar | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | `Array` `Greedy` | 💚 |
-| 21st Mar | []() | 
-| 22nd Mar | []() | 
-| 23rd Mar | []() | 
-| 24th Mar | []() | 
-| 25th Mar | []() | 
-| 26th Mar | []() | 
+| 21st Mar | [2348]() | 
+| 22nd Mar | [2492]() | 
+| 23rd Mar | [1319]() | 
+| 24th Mar | [1466]() | 
+| 25th Mar | [2316]() | 
+| 26th Mar | [2360]() | 
 | 27th Mar | []() | 
 | 28th Mar | []() | 
 | 29th Mar | []() | 
 | 30th Mar | []() | 
-| 31st Mar | []() | 
+| 31st Mar | []() |
+
 ---
 
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
