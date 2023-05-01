@@ -601,6 +601,44 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 
 ---
 
+# April 2023
+
+| Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
+| -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
+| 01st May | [1491]()
+| 02nd May | []()
+| 03rd May | []()
+| 04th May | []()
+| 05th May | []()
+| 06th May | []()
+| 07th May | []()
+| 08th May | []()
+| 09th May | []()
+| 10th May | []()
+| 11th May | []()
+| 12th May | []()
+| 13th May | []()
+| 14th May | []()
+| 15th May | []()
+| 16th May | []()
+| 17th May | []()
+| 18th May | []()
+| 19th May | []()
+| 20th May | []()
+| 21st May | []()
+| 22nd May | []()
+| 23rd May | []()
+| 24th May | []()
+| 25th May | []()
+| 26th May | []()
+| 27th May | []()
+| 28th May | []()
+| 29th May | []()
+| 30th May | []()
+| 31st May | []()
+
+---
+
 | S.No. | Month's Name | Total | Easy | Medium | Hard |
 | ----- | ------------ | ----- | ---- | ------ | ---- |
 | 01.   | January      | 31/31 | 9    | 17     | 5    |
