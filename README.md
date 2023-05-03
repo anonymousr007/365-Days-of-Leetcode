@@ -606,8 +606,8 @@ Easy: 💚 **|** Medium: 🧡 **|** Hard: ❤️
 | Date     | Leetcode Problem's Name | Tags | Difficulty | C++ Code | Python Code | Rust Code |
 | -------- | ----------------------- | ---- | ---------- | -------- | ----------- | --------- |
 | 01st May | [1491]()
-| 02nd May | []()
-| 03rd May | []()
+| 02nd May | [1822]()
+| 03rd May | [2215]()
 | 04th May | []()
 | 05th May | []()
 | 06th May | []()
